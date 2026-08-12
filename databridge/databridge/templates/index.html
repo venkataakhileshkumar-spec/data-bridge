@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>DataBridge</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600&family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+
+<div class="shell">
+
+  <aside class="rail">
+    <div class="rail-brand">
+      <span class="rail-mark">DB</span>
+      <div class="rail-brand-text">
+        <span class="rail-title">DataBridge</span>
+        <span class="rail-subtitle">Member &amp; Provider Data</span>
+      </div>
+    </div>
+
+    <div class="rail-section">
+      <span class="rail-label">Sources connected</span>
+      <ul class="source-list">
+        <li><span class="src-dot src-legacy"></span> Legacy Enrollment System <em>CSV</em></li>
+        <li><span class="src-dot src-portal"></span> Member Portal <em>JSON</em></li>
+        <li><span class="src-dot src-provider"></span> Provider Registry <em>CSV</em></li>
+      </ul>
+    </div>
+
+    <div class="rail-section">
+      <button id="btn-run" class="run-btn">Re-run pipeline</button>
+      <p class="run-status" id="run-status">idle</p>
+    </div>
+
+    <div class="rail-section rail-note">
+      <span class="rail-label">About this panel</span>
+      <p>Synthetic multi-source data, regenerated each run. The two member
+      sources deliberately overlap so the identity-resolution step has
+      real matching work to do. No real member or provider data is used.</p>
+    </div>
+  </aside>
+
+  <main class="main">
+
+    <header class="topbar">
+      <div>
+        <h1>Pipeline overview</h1>
+        <p class="topbar-sub">Ingest → normalize → match → canonical store</p>
+      </div>
+      <div class="topbar-updated">
+        <span class="dot"></span>
+        <span id="last-updated">loading…</span>
+      </div>
+    </header>
+
+    <!-- Flow diagram -->
+    <section class="panel flow-panel">
+      <div class="panel-head">
+        <h2>Data flow</h2>
+        <span class="panel-tag">records at each stage</span>
+      </div>
+      <div class="flow" id="flow-diagram">
+        <div class="flow-col flow-sources">
+          <div class="flow-node node-legacy">
+            <span class="node-label">Legacy Enrollment</span>
+            <span class="node-count" id="flow-legacy">—</span>
+          </div>
+          <div class="flow-node node-portal">
+            <span class="node-label">Member Portal</span>
+            <span class="node-count" id="flow-portal">—</span>
+          </div>
+          <div class="flow-node node-provider">
+            <span class="node-label">Provider Registry</span>
+            <span class="node-count" id="flow-provider">—</span>
+          </div>
+        </div>
+        <div class="flow-arrows" aria-hidden="true">
+          <svg viewBox="0 0 120 200" preserveAspectRatio="none">
+            <path d="M0,32 C60,32 60,100 118,100" />
+            <path d="M0,100 C60,100 60,100 118,100" />
+            <path d="M0,168 C60,168 60,100 118,100" />
+          </svg>
+        </div>
+        <div class="flow-col flow-bridge">
+          <div class="flow-node node-bridge">
+            <span class="node-label">Bridge</span>
+            <span class="node-sub">normalize · match · validate</span>
+          </div>
+        </div>
+        <div class="flow-arrows" aria-hidden="true">
+          <svg viewBox="0 0 120 200" preserveAspectRatio="none">
+            <path d="M0,100 C60,100 60,50 118,50" />
+            <path d="M0,100 C60,100 60,150 118,150" />
+          </svg>
+        </div>
+        <div class="flow-col flow-canonical">
+          <div class="flow-node node-canon">
+            <span class="node-label">Canonical members</span>
+            <span class="node-count" id="flow-members">—</span>
+          </div>
+          <div class="flow-node node-canon">
+            <span class="node-label">Canonical providers</span>
+            <span class="node-count" id="flow-providers">—</span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- KPI row -->
+    <section class="kpi-row" id="kpi-row" aria-label="Key metrics">
+      <div class="kpi-card">
+        <span class="kpi-label">Sources connected</span>
+        <span class="kpi-value" id="kpi-sources">—</span>
+      </div>
+      <div class="kpi-card">
+        <span class="kpi-label">Raw records ingested</span>
+        <span class="kpi-value" id="kpi-raw">—</span>
+      </div>
+      <div class="kpi-card kpi-accent">
+        <span class="kpi-label">Identities linked</span>
+        <span class="kpi-value" id="kpi-linked">—</span>
+      </div>
+      <div class="kpi-card">
+        <span class="kpi-label">Canonical members</span>
+        <span class="kpi-value" id="kpi-members">—</span>
+      </div>
+      <div class="kpi-card">
+        <span class="kpi-label">Quality issues</span>
+        <span class="kpi-value" id="kpi-issues">—</span>
+      </div>
+    </section>
+
+    <section class="grid">
+
+      <div class="panel panel-crosswalk">
+        <div class="panel-head">
+          <h2>Linked identities</h2>
+          <span class="panel-tag">same person, multiple sources</span>
+        </div>
+        <div class="table-wrap">
+          <table id="table-crosswalk">
+            <thead>
+              <tr><th>Canonical ID</th><th>Source system</th><th>Source ID</th><th>Match type</th></tr>
+            </thead>
+            <tbody id="crosswalk-body"><tr><td colspan="4" class="empty">Loading…</td></tr></tbody>
+          </table>
+        </div>
+      </div>
+
+      <div class="panel panel-quality">
+        <div class="panel-head">
+          <h2>Data quality worklist</h2>
+          <span class="panel-tag">flagged on ingest</span>
+        </div>
+        <div class="table-wrap">
+          <table id="table-quality">
+            <thead>
+              <tr><th>Source system</th><th>Source ID</th><th>Field</th><th>Issue</th></tr>
+            </thead>
+            <tbody id="quality-body"><tr><td colspan="4" class="empty">Loading…</td></tr></tbody>
+          </table>
+        </div>
+      </div>
+
+      <div class="panel panel-members">
+        <div class="panel-head">
+          <h2>Canonical members</h2>
+          <span class="panel-tag">sample, first 50</span>
+        </div>
+        <div class="table-wrap">
+          <table id="table-members">
+            <thead>
+              <tr><th>Name</th><th>DOB</th><th>Sex</th><th>Plan</th><th>City / State</th><th>Sources</th></tr>
+            </thead>
+            <tbody id="members-body"><tr><td colspan="6" class="empty">Loading…</td></tr></tbody>
+          </table>
+        </div>
+      </div>
+
+      <div class="panel panel-providers">
+        <div class="panel-head">
+          <h2>Canonical providers</h2>
+          <span class="panel-tag">sample, first 50</span>
+        </div>
+        <div class="table-wrap">
+          <table id="table-providers">
+            <thead>
+              <tr><th>Name</th><th>Specialty</th><th>Practice</th><th>City / State</th><th>Accepting</th></tr>
+            </thead>
+            <tbody id="providers-body"><tr><td colspan="5" class="empty">Loading…</td></tr></tbody>
+          </table>
+        </div>
+      </div>
+
+    </section>
+
+  </main>
+</div>
+
+<script src="{{ url_for('static', filename='js/dashboard.js') }}"></script>
+</body>
+</html>

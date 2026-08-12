@@ -1,0 +1,91 @@
+NPI,PROVIDER_NAME,SPECIALTY,PRACTICE,ADDRESS,PHONE,ACCEPTING_NEW_PATIENTS
+1629435959,"Garcia, Linda MD",Orthopedics,Garcia Health Partners,"7367 Health Way, Georgetown, OH",(349) 649-3547,N
+1239481361,"Patel, Mary MD",Internal Medicine,Patel Medical Group,"9764 Health Way, Springfield, IL",(790) 811-9067,Y
+1704274386,"Patel, Anita MD",Pediatrics,Patel Clinic,"6161 Health Way, Fairview, TX",(328) 242-6035,N
+1471027149,"Johnson, James MD",Dermatology,Johnson Clinic,"4498 Health Way, Georgetown, OH",(492) 466-2422,N
+1769607692,"Khan, David MD",Pediatrics,Khan Clinic,"9992 Health Way, Clinton, MI",(354) 693-9762,Y
+1250533449,"Silva, Mary MD",Family Medicine,Silva Medical Group,"690 Health Way, Fairview, TX",(205) 808-7984,Y
+1256782369,"Chen, Fatima MD",Orthopedics,Chen Medical Group,"2594 Health Way, Clinton, MI",(712) 426-1177,Y
+1504201744,"Garcia, Robert MD",Behavioral Health,Garcia Health Partners,"2384 Health Way, Riverside, CA",(836) 333-8739,N
+1985602558,"Chen, Sara MD",Orthopedics,Chen Medical Group,"1097 Health Way, Fairview, TX",(796) 455-1904,Y
+1524001243,"Patel, John MD",Cardiology,Patel Health Partners,"1333 Health Way, Franklin, NC",(863) 891-6728,Y
+1369355529,"Khan, Sara MD",OB/GYN,Khan Health Partners,"1494 Health Way, Springfield, IL",(284) 294-7982,N
+1478782854,"Chen, David MD",Orthopedics,Chen Medical Group,"4739 Health Way, Franklin, NC",(788) 382-5845,Y
+1104755102,"Williams, John MD",OB/GYN,Williams Clinic,"4961 Health Way, Georgetown, OH",(381) 613-4149,N
+1621869761,"Davis, Barbara MD",Internal Medicine,Davis Clinic,"1110 Health Way, Riverside, CA",(210) 377-9105,N
+1394067468,"Clark, Kevin MD",Internal Medicine,Clark Health Partners,"3153 Health Way, Franklin, NC",(990) 344-4760,Y
+1453153689,"Johnson, Mary MD",Family Medicine,Johnson Clinic,"2811 Health Way, Clinton, MI",(643) 766-4763,N
+1184369635,"Williams, Michael MD",Orthopedics,Williams Medical Group,"421 Health Way, Springfield, IL",(745) 494-5552,N
+1446064665,"Brown, Sara MD",Dermatology,Brown Health Partners,"7133 Health Way, Clinton, MI",(539) 294-5918,Y
+1809346165,"Anderson, Mary MD",Family Medicine,Anderson Medical Group,"9021 Health Way, Springfield, IL",(862) 882-8224,Y
+1733646699,"Rodriguez, Liam MD",Orthopedics,Rodriguez Medical Group,"8425 Health Way, Franklin, NC",(518) 288-4278,N
+1145661594,"Chen, Priya MD",Pediatrics,Chen Medical Group,"1564 Health Way, Fairview, TX",(232) 681-8726,N
+1793193987,"Martinez, Michael MD",Behavioral Health,Martinez Medical Group,"7468 Health Way, Fairview, TX",(526) 217-1188,N
+1886269000,"Patel, John MD",Internal Medicine,Patel Health Partners,"5386 Health Way, Riverside, CA",(233) 552-4640,N
+1025124684,"Garcia, Priya MD",Internal Medicine,Garcia Clinic,"9316 Health Way, Fairview, TX",(563) 543-6128,N
+1308102842,"Anderson, Robert MD",Family Medicine,Anderson Medical Group,"5323 Health Way, Franklin, NC",(412) 736-9097,N
+1345052371,"Martinez, James MD",Cardiology,Martinez Medical Group,"8667 Health Way, Franklin, NC",(788) 324-4500,Y
+1776260912,"Martinez, Linda MD",Cardiology,Martinez Health Partners,"5514 Health Way, Franklin, NC",(589) 515-3281,N
+1387123116,"Williams, Wei MD",Orthopedics,Williams Medical Group,"8375 Health Way, Springfield, IL",(488) 294-8251,Y
+1956768368,"Khan, John MD",Cardiology,Khan Clinic,"766 Health Way, Franklin, NC",(659) 410-7998,Y
+1892512446,"Silva, Robert MD",Internal Medicine,Silva Medical Group,"725 Health Way, Springfield, IL",(832) 727-2807,Y
+1900660604,"Williams, Kevin MD",Behavioral Health,Williams Clinic,"6255 Health Way, Springfield, IL",(456) 940-6079,Y
+1005487696,"Clark, Kevin MD",Family Medicine,Clark Health Partners,"464 Health Way, Georgetown, OH",(272) 919-4606,Y
+1210886336,"Davis, James MD",OB/GYN,Davis Clinic,"3344 Health Way, Georgetown, OH",(657) 212-7586,N
+1466112153,"Davis, Emma MD",Orthopedics,Davis Health Partners,"3607 Health Way, Georgetown, OH",(668) 598-5694,N
+1694270952,"Kim, Noah MD",Internal Medicine,Kim Clinic,"6823 Health Way, Springfield, IL",(699) 211-4048,N
+1785368614,"Patel, Robert MD",Cardiology,Patel Clinic,"4105 Health Way, Riverside, CA",(414) 456-5690,Y
+1322014553,"Nguyen, Robert MD",Family Medicine,Nguyen Health Partners,"9945 Health Way, Franklin, NC",(888) 734-7772,Y
+1833599463,"Davis, Emma MD",Endocrinology,Davis Medical Group,"2799 Health Way, Clinton, MI",(848) 533-7647,N
+1004043018,"Davis, James MD",Internal Medicine,Davis Health Partners,"4357 Health Way, Clinton, MI",(375) 907-1210,Y
+1685805941,"Khan, Emma MD",Dermatology,Khan Medical Group,"1773 Health Way, Franklin, NC",(552) 628-7856,Y
+1575835342,"Martinez, Robert MD",OB/GYN,Martinez Medical Group,"7134 Health Way, Riverside, CA",(978) 956-7573,Y
+1311751237,"Williams, Linda MD",Dermatology,Williams Health Partners,"2610 Health Way, Riverside, CA",(528) 424-4806,N
+1050010857,"Miller, Mary MD",OB/GYN,Miller Clinic,"1052 Health Way, Georgetown, OH",(288) 497-3390,N
+1566547206,"Davis, Liam MD",Cardiology,Davis Clinic,"1659 Health Way, Riverside, CA",(903) 830-4387,Y
+1528237831,"Smith, Fatima MD",OB/GYN,Smith Health Partners,"8809 Health Way, Springfield, IL",(658) 855-5978,Y
+1334726669,"Khan, John MD",Endocrinology,Khan Health Partners,"1748 Health Way, Franklin, NC",(833) 870-6671,Y
+1935370449,"Kim, Elizabeth MD",Pediatrics,Kim Medical Group,"7899 Health Way, Fairview, TX",(708) 496-5173,Y
+1794132701,"Kim, David MD",Orthopedics,Kim Health Partners,"2865 Health Way, Riverside, CA",(630) 457-3936,Y
+1837605901,"Silva, Robert MD",Behavioral Health,Silva Clinic,"7652 Health Way, Franklin, NC",(405) 745-3088,N
+1200702545,"Miller, Elizabeth MD",Family Medicine,Miller Clinic,"8253 Health Way, Georgetown, OH",(979) 937-9240,N
+1987915798,"Chen, Anita MD",OB/GYN,Chen Clinic,"8236 Health Way, Georgetown, OH",(912) 294-4306,Y
+1407323178,"Anderson, Emma MD",Family Medicine,Anderson Clinic,"8947 Health Way, Riverside, CA",(576) 299-8488,N
+1355255347,"Martinez, James MD",Family Medicine,Martinez Clinic,"1581 Health Way, Clinton, MI",(805) 734-4654,N
+1026578918,"Davis, Robert MD",Endocrinology,Davis Health Partners,"2496 Health Way, Fairview, TX",(828) 976-8711,N
+1666645825,"Rodriguez, John MD",Pediatrics,Rodriguez Clinic,"7770 Health Way, Springfield, IL",(293) 570-1390,N
+1657410042,"Nguyen, Kevin MD",Behavioral Health,Nguyen Clinic,"7548 Health Way, Riverside, CA",(722) 459-5400,Y
+1710767444,"Jones, Priya MD",Behavioral Health,Jones Health Partners,"1943 Health Way, Georgetown, OH",(932) 751-8047,Y
+1660651802,"Kim, Kevin MD",Behavioral Health,Kim Medical Group,"2595 Health Way, Clinton, MI",(914) 389-8904,N
+1096617850,"Anderson, Wei MD",Dermatology,Anderson Medical Group,"3610 Health Way, Franklin, NC",(912) 769-9023,N
+1484028984,"Silva, Priya MD",Orthopedics,Silva Medical Group,"4872 Health Way, Riverside, CA",(744) 458-3708,Y
+1895627154,"Johnson, Fatima MD",Orthopedics,Johnson Medical Group,"8693 Health Way, Fairview, TX",(909) 297-1451,Y
+1711868255,"Martinez, Barbara MD",Internal Medicine,Martinez Medical Group,"600 Health Way, Fairview, TX",(405) 758-8716,N
+1984868569,"Chen, Elizabeth MD",OB/GYN,Chen Health Partners,"2930 Health Way, Georgetown, OH",(557) 765-1889,Y
+1609267313,"Kim, David MD",Pediatrics,Kim Clinic,"7041 Health Way, Franklin, NC",(857) 755-4048,N
+1584634832,"Johnson, Barbara MD",Pediatrics,Johnson Health Partners,"4620 Health Way, Fairview, TX",(497) 250-5474,N
+1563963508,"Williams, Anita MD",Behavioral Health,Williams Health Partners,"3264 Health Way, Fairview, TX",(418) 921-8665,Y
+1588708714,"Davis, James MD",Internal Medicine,Davis Health Partners,"7671 Health Way, Riverside, CA",(214) 332-5775,N
+1732413719,"Garcia, Robert MD",Dermatology,Garcia Health Partners,"2219 Health Way, Fairview, TX",(584) 865-7091,Y
+1905946066,"Nguyen, Robert MD",Dermatology,Nguyen Clinic,"3142 Health Way, Clinton, MI",(298) 802-7343,Y
+1640602927,"Garcia, Barbara MD",Dermatology,Garcia Medical Group,"117 Health Way, Fairview, TX",(238) 326-1528,Y
+1465297336,"Williams, Kevin MD",Dermatology,Williams Health Partners,"7395 Health Way, Georgetown, OH",(979) 209-6807,Y
+1144992223,"Chen, Sara MD",Behavioral Health,Chen Medical Group,"9997 Health Way, Georgetown, OH",(977) 350-4542,N
+1017383312,"Patel, Noah MD",Internal Medicine,Patel Health Partners,"1665 Health Way, Fairview, TX",(350) 572-9383,Y
+1325344357,"Rodriguez, Emma MD",Dermatology,Rodriguez Health Partners,"5826 Health Way, Fairview, TX",(486) 565-1444,N
+1699908854,"Miller, Fatima MD",Orthopedics,Miller Health Partners,"929 Health Way, Georgetown, OH",(936) 216-2382,Y
+1610106227,"Kim, Carlos MD",Pediatrics,Kim Health Partners,"958 Health Way, Franklin, NC",(752) 616-2506,N
+1194532745,"Johnson, Barbara MD",Endocrinology,Johnson Clinic,"1514 Health Way, Georgetown, OH",(432) 853-8401,Y
+1428592802,"Davis, James MD",Dermatology,Davis Health Partners,"8648 Health Way, Riverside, CA",(885) 441-9344,N
+1337040870,"Rodriguez, Elizabeth MD",Cardiology,Rodriguez Clinic,"426 Health Way, Fairview, TX",(430) 906-8430,Y
+1985045490,"Jones, David MD",Pediatrics,Jones Clinic,"6117 Health Way, Riverside, CA",(946) 811-4360,Y
+1075425632,"Miller, Barbara MD",Orthopedics,Miller Clinic,"4231 Health Way, Fairview, TX",(325) 816-7340,Y
+1199653595,"Rodriguez, Sara MD",Internal Medicine,Rodriguez Medical Group,"9815 Health Way, Franklin, NC",(358) 695-4542,N
+1553985715,"Miller, Barbara MD",OB/GYN,Miller Clinic,"1813 Health Way, Riverside, CA",(313) 207-2755,N
+1329012147,"Rodriguez, Mary MD",Endocrinology,Rodriguez Clinic,"8315 Health Way, Franklin, NC",(976) 582-9952,N
+1923159039,"Chen, Noah MD",Internal Medicine,Chen Clinic,"3171 Health Way, Fairview, TX",(343) 318-5533,N
+1777203685,"Kim, Sara MD",Pediatrics,Kim Clinic,"3166 Health Way, Franklin, NC",(423) 229-1348,N
+1264958847,"Garcia, Priya MD",Orthopedics,Garcia Health Partners,"3001 Health Way, Georgetown, OH",(901) 579-3947,N
+1996415922,"Johnson, Robert MD",Orthopedics,Johnson Medical Group,"5410 Health Way, Georgetown, OH",(578) 948-2214,N
+1304517098,"Smith, Patricia MD",Cardiology,Smith Medical Group,"8396 Health Way, Clinton, MI",(222) 888-7585,Y
+1036839002,"Davis, Carlos MD",Dermatology,Davis Health Partners,"4009 Health Way, Fairview, TX",(399) 846-4522,N

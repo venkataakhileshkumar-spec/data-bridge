@@ -1,0 +1,7762 @@
+[
+  {
+    "memberId": "PORTAL-100352",
+    "name": {
+      "first": "Elizabeth",
+      "last": "Khan"
+    },
+    "dateOfBirth": "1937-12-11",
+    "sex": "Female",
+    "address": {
+      "line1": "9775 Main St",
+      "city": "Riverside",
+      "state": "CA"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1248148866"
+  },
+  {
+    "memberId": "PORTAL-100403",
+    "name": {
+      "first": "Emma",
+      "last": "Patel"
+    },
+    "dateOfBirth": "2021-03-21",
+    "sex": "Female",
+    "address": {
+      "line1": "8026 Main St",
+      "city": "Georgetown",
+      "state": "OH"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1599883857"
+  },
+  {
+    "memberId": "PORTAL-000083",
+    "name": {
+      "first": "Linda",
+      "last": "Johnson"
+    },
+    "dateOfBirth": "1992-06-18",
+    "sex": "Female",
+    "address": {
+      "line1": "6598 Main St",
+      "city": "Clinton",
+      "state": "MI"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": null
+  },
+  {
+    "memberId": "PORTAL-100466",
+    "name": {
+      "first": "Liam",
+      "last": "Miller"
+    },
+    "dateOfBirth": "1968-11-09",
+    "sex": "Female",
+    "address": {
+      "line1": "8631 Main St",
+      "city": "Springfield",
+      "state": "IL"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1715289965"
+  },
+  {
+    "memberId": "PORTAL-000114",
+    "name": {
+      "first": "Sara",
+      "last": "Silva"
+    },
+    "dateOfBirth": "1984-04-28",
+    "sex": "Male",
+    "address": {
+      "line1": "8753 Main St",
+      "city": "Franklin",
+      "state": "NC"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": null
+  },
+  {
+    "memberId": "PORTAL-100249",
+    "name": {
+      "first": "John",
+      "last": "Silva"
+    },
+    "dateOfBirth": "1999-03-13",
+    "sex": "Male",
+    "address": {
+      "line1": "1847 Main St",
+      "city": "Georgetown",
+      "state": "OH"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1445827415"
+  },
+  {
+    "memberId": "PORTAL-000134",
+    "name": {
+      "first": "Fatima",
+      "last": "Smith"
+    },
+    "dateOfBirth": "1941-05-07",
+    "sex": "Male",
+    "address": {
+      "line1": "1545 Main St",
+      "city": "Riverside",
+      "state": "CA"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1035708692"
+  },
+  {
+    "memberId": "PORTAL-000021",
+    "name": {
+      "first": "Carlos",
+      "last": "Rodriguez"
+    },
+    "dateOfBirth": "1940-07-14",
+    "sex": "Male",
+    "address": {
+      "line1": "1352 Main St",
+      "city": "Riverside",
+      "state": "CA"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": null
+  },
+  {
+    "memberId": "PORTAL-100464",
+    "name": {
+      "first": "Carlos",
+      "last": "Nguyen"
+    },
+    "dateOfBirth": "1955-11-13",
+    "sex": "Male",
+    "address": {
+      "line1": "7410 Main St",
+      "city": "Riverside",
+      "state": "CA"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1379074144"
+  },
+  {
+    "memberId": "PORTAL-900003",
+    "name": {
+      "first": "Carlos",
+      "last": ""
+    },
+    "dateOfBirth": "1982-12-16",
+    "sex": "Female",
+    "address": {
+      "line1": "2964 Main St",
+      "city": "Georgetown",
+      "state": "OH"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1213181115"
+  },
+  {
+    "memberId": "PORTAL-100245",
+    "name": {
+      "first": "Barbara",
+      "last": "Patel"
+    },
+    "dateOfBirth": "1973-03-31",
+    "sex": "Female",
+    "address": {
+      "line1": "2619 Main St",
+      "city": "Georgetown",
+      "state": "OH"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1021888426"
+  },
+  {
+    "memberId": "PORTAL-000027",
+    "name": {
+      "first": "Barbara",
+      "last": "Brown"
+    },
+    "dateOfBirth": "1998-06-01",
+    "sex": "Male",
+    "address": {
+      "line1": "5077 Main St",
+      "city": "Clinton",
+      "state": "MI"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1861114893"
+  },
+  {
+    "memberId": "PORTAL-100444",
+    "name": {
+      "first": "Carlos",
+      "last": "Khan"
+    },
+    "dateOfBirth": "2011-04-12",
+    "sex": "Female",
+    "address": {
+      "line1": "9674 Main St",
+      "city": "Franklin",
+      "state": "NC"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1092370359"
+  },
+  {
+    "memberId": "PORTAL-100427",
+    "name": {
+      "first": "Kevin",
+      "last": "Kim"
+    },
+    "dateOfBirth": "1954-11-22",
+    "sex": "Male",
+    "address": {
+      "line1": "4681 Main St",
+      "city": "Georgetown",
+      "state": "OH"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1792441230"
+  },
+  {
+    "memberId": "PORTAL-000002",
+    "name": {
+      "first": "Linda",
+      "last": "Davis"
+    },
+    "dateOfBirth": "2015-10-25",
+    "sex": "Female",
+    "address": {
+      "line1": "1371 Main St",
+      "city": "Springfield",
+      "state": "IL"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1555979711"
+  },
+  {
+    "memberId": "PORTAL-000091",
+    "name": {
+      "first": "Priya",
+      "last": "Kim"
+    },
+    "dateOfBirth": "1967-02-25",
+    "sex": "Male",
+    "address": {
+      "line1": "3183 Main St",
+      "city": "Fairview",
+      "state": "TX"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1799581255"
+  },
+  {
+    "memberId": "PORTAL-100409",
+    "name": {
+      "first": "Linda",
+      "last": "Anderson"
+    },
+    "dateOfBirth": "1975-01-09",
+    "sex": "Female",
+    "address": {
+      "line1": "9066 Main St",
+      "city": "Fairview",
+      "state": "TX"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": null
+  },
+  {
+    "memberId": "PORTAL-000142",
+    "name": {
+      "first": "Noah",
+      "last": "Brown"
+    },
+    "dateOfBirth": "2005-10-17",
+    "sex": "Female",
+    "address": {
+      "line1": "1575 Main St",
+      "city": "Fairview",
+      "state": "TX"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1742411312"
+  },
+  {
+    "memberId": "PORTAL-000031",
+    "name": {
+      "first": "John",
+      "last": "Nguyen"
+    },
+    "dateOfBirth": "2019-08-16",
+    "sex": "Male",
+    "address": {
+      "line1": "6303 Main St",
+      "city": "Clinton",
+      "state": "MI"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": null
+  },
+  {
+    "memberId": "PORTAL-000127",
+    "name": {
+      "first": "David",
+      "last": "Anderson"
+    },
+    "dateOfBirth": "2020-01-18",
+    "sex": "Female",
+    "address": {
+      "line1": "6374 Main St",
+      "city": "Riverside",
+      "state": "CA"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1662039849"
+  },
+  {
+    "memberId": "PORTAL-100328",
+    "name": {
+      "first": "Michael",
+      "last": "Khan"
+    },
+    "dateOfBirth": "1960-02-22",
+    "sex": "Female",
+    "address": {
+      "line1": "4966 Main St",
+      "city": "Clinton",
+      "state": "MI"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1521439653"
+  },
+  {
+    "memberId": "PORTAL-100267",
+    "name": {
+      "first": "Mary",
+      "last": "Brown"
+    },
+    "dateOfBirth": "1942-03-02",
+    "sex": "Male",
+    "address": {
+      "line1": "1926 Main St",
+      "city": "Riverside",
+      "state": "CA"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1478618562"
+  },
+  {
+    "memberId": "PORTAL-000156",
+    "name": {
+      "first": "Fatima",
+      "last": "Rodriguez"
+    },
+    "dateOfBirth": "1949-05-14",
+    "sex": "Male",
+    "address": {
+      "line1": "8347 Main St",
+      "city": "Georgetown",
+      "state": "OH"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": null
+  },
+  {
+    "memberId": "PORTAL-100333",
+    "name": {
+      "first": "Priya",
+      "last": "Silva"
+    },
+    "dateOfBirth": "1958-11-21",
+    "sex": "Female",
+    "address": {
+      "line1": "9072 Main St",
+      "city": "Springfield",
+      "state": "IL"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1889512321"
+  },
+  {
+    "memberId": "PORTAL-100383",
+    "name": {
+      "first": "Robert",
+      "last": "Chen"
+    },
+    "dateOfBirth": "2013-02-19",
+    "sex": "Male",
+    "address": {
+      "line1": "2405 Main St",
+      "city": "Springfield",
+      "state": "IL"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1785100748"
+  },
+  {
+    "memberId": "PORTAL-100246",
+    "name": {
+      "first": "Carlos",
+      "last": "Davis"
+    },
+    "dateOfBirth": "1994-06-18",
+    "sex": "Female",
+    "address": {
+      "line1": "3134 Main St",
+      "city": "Clinton",
+      "state": "MI"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1942080549"
+  },
+  {
+    "memberId": "PORTAL-000009",
+    "name": {
+      "first": "Linda",
+      "last": "Garcia"
+    },
+    "dateOfBirth": "2010-08-02",
+    "sex": "Male",
+    "address": {
+      "line1": "2381 Main St",
+      "city": "Franklin",
+      "state": "NC"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": null
+  },
+  {
+    "memberId": "PORTAL-100359",
+    "name": {
+      "first": "Elizabeth",
+      "last": "Garcia"
+    },
+    "dateOfBirth": "2015-11-20",
+    "sex": "Female",
+    "address": {
+      "line1": "7007 Main St",
+      "city": "Riverside",
+      "state": "CA"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1986567533"
+  },
+  {
+    "memberId": "PORTAL-000018",
+    "name": {
+      "first": "Carlos",
+      "last": "Rodriguez"
+    },
+    "dateOfBirth": "1961-09-27",
+    "sex": "Male",
+    "address": {
+      "line1": "9694 Main St",
+      "city": "Springfield",
+      "state": "IL"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1296572492"
+  },
+  {
+    "memberId": "PORTAL-100215",
+    "name": {
+      "first": "John",
+      "last": "Anderson"
+    },
+    "dateOfBirth": "1954-02-28",
+    "sex": "Male",
+    "address": {
+      "line1": "5581 Main St",
+      "city": "Riverside",
+      "state": "CA"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1083297012"
+  },
+  {
+    "memberId": "PORTAL-000175",
+    "name": {
+      "first": "Anita",
+      "last": "Jones"
+    },
+    "dateOfBirth": "1977-03-13",
+    "sex": "Male",
+    "address": {
+      "line1": "5088 Main St",
+      "city": "Fairview",
+      "state": "TX"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1316020573"
+  },
+  {
+    "memberId": "PORTAL-000053",
+    "name": {
+      "first": "James",
+      "last": "Anderson"
+    },
+    "dateOfBirth": "2001-03-24",
+    "sex": "Male",
+    "address": {
+      "line1": "3893 Main St",
+      "city": "Fairview",
+      "state": "TX"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1178155166"
+  },
+  {
+    "memberId": "PORTAL-000065",
+    "name": {
+      "first": "Noah",
+      "last": "Johnson"
+    },
+    "dateOfBirth": "1975-03-25",
+    "sex": "Male",
+    "address": {
+      "line1": "746 Main St",
+      "city": "Fairview",
+      "state": "TX"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1212061052"
+  },
+  {
+    "memberId": "PORTAL-100477",
+    "name": {
+      "first": "Mary",
+      "last": "Clark"
+    },
+    "dateOfBirth": "1936-03-21",
+    "sex": "Male",
+    "address": {
+      "line1": "1600 Main St",
+      "city": "Riverside",
+      "state": "CA"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1384255885"
+  },
+  {
+    "memberId": "PORTAL-100436",
+    "name": {
+      "first": "Anita",
+      "last": "Miller"
+    },
+    "dateOfBirth": "2021-09-12",
+    "sex": "Female",
+    "address": {
+      "line1": "2836 Main St",
+      "city": "Franklin",
+      "state": "NC"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1835800963"
+  },
+  {
+    "memberId": "PORTAL-000117",
+    "name": {
+      "first": "Emma",
+      "last": "Garcia"
+    },
+    "dateOfBirth": "1987-10-29",
+    "sex": "Female",
+    "address": {
+      "line1": "8038 Main St",
+      "city": "Springfield",
+      "state": "IL"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1448024303"
+  },
+  {
+    "memberId": "PORTAL-100467",
+    "name": {
+      "first": "John",
+      "last": "Johnson"
+    },
+    "dateOfBirth": "1968-10-26",
+    "sex": "Female",
+    "address": {
+      "line1": "4679 Main St",
+      "city": "Riverside",
+      "state": "CA"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": null
+  },
+  {
+    "memberId": "PORTAL-100251",
+    "name": {
+      "first": "Linda",
+      "last": "Kim"
+    },
+    "dateOfBirth": "1974-07-28",
+    "sex": "Male",
+    "address": {
+      "line1": "666 Main St",
+      "city": "Georgetown",
+      "state": "OH"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1588764698"
+  },
+  {
+    "memberId": "PORTAL-100475",
+    "name": {
+      "first": "Robert",
+      "last": "Miller"
+    },
+    "dateOfBirth": "1977-04-10",
+    "sex": "Male",
+    "address": {
+      "line1": "9670 Main St",
+      "city": "Springfield",
+      "state": "IL"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": null
+  },
+  {
+    "memberId": "PORTAL-100234",
+    "name": {
+      "first": "Wei",
+      "last": "Khan"
+    },
+    "dateOfBirth": "1963-02-19",
+    "sex": "Male",
+    "address": {
+      "line1": "7680 Main St",
+      "city": "Fairview",
+      "state": "TX"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1504469474"
+  },
+  {
+    "memberId": "PORTAL-000118",
+    "name": {
+      "first": "Mary",
+      "last": "Kim"
+    },
+    "dateOfBirth": "1969-05-16",
+    "sex": "Female",
+    "address": {
+      "line1": "3183 Main St",
+      "city": "Springfield",
+      "state": "IL"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1050355076"
+  },
+  {
+    "memberId": "PORTAL-000005",
+    "name": {
+      "first": "Fatima",
+      "last": "Johnson"
+    },
+    "dateOfBirth": "1967-09-13",
+    "sex": "Female",
+    "address": {
+      "line1": "1777 Main St",
+      "city": "Springfield",
+      "state": "IL"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1815901396"
+  },
+  {
+    "memberId": "PORTAL-100298",
+    "name": {
+      "first": "Wei",
+      "last": "Brown"
+    },
+    "dateOfBirth": "2007-02-13",
+    "sex": "Female",
+    "address": {
+      "line1": "3728 Main St",
+      "city": "Clinton",
+      "state": "MI"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1973371312"
+  },
+  {
+    "memberId": "PORTAL-100337",
+    "name": {
+      "first": "Priya",
+      "last": "Kim"
+    },
+    "dateOfBirth": "1955-07-25",
+    "sex": "Male",
+    "address": {
+      "line1": "3660 Main St",
+      "city": "Springfield",
+      "state": "IL"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1899044069"
+  },
+  {
+    "memberId": "PORTAL-100396",
+    "name": {
+      "first": "Robert",
+      "last": "Chen"
+    },
+    "dateOfBirth": "1946-06-02",
+    "sex": "Female",
+    "address": {
+      "line1": "2342 Main St",
+      "city": "Springfield",
+      "state": "IL"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1912239991"
+  },
+  {
+    "memberId": "PORTAL-000109",
+    "name": {
+      "first": "Emma",
+      "last": "Nguyen"
+    },
+    "dateOfBirth": "1979-11-26",
+    "sex": "Male",
+    "address": {
+      "line1": "8116 Main St",
+      "city": "Clinton",
+      "state": "MI"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1389189916"
+  },
+  {
+    "memberId": "PORTAL-100322",
+    "name": {
+      "first": "Noah",
+      "last": "Nguyen"
+    },
+    "dateOfBirth": "1996-12-04",
+    "sex": "Male",
+    "address": {
+      "line1": "3232 Main St",
+      "city": "Riverside",
+      "state": "CA"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1952588360"
+  },
+  {
+    "memberId": "PORTAL-100390",
+    "name": {
+      "first": "Mary",
+      "last": "Patel"
+    },
+    "dateOfBirth": "1988-07-21",
+    "sex": "Male",
+    "address": {
+      "line1": "3081 Main St",
+      "city": "Clinton",
+      "state": "MI"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1355294361"
+  },
+  {
+    "memberId": "PORTAL-100442",
+    "name": {
+      "first": "Noah",
+      "last": "Rodriguez"
+    },
+    "dateOfBirth": "1936-07-25",
+    "sex": "Male",
+    "address": {
+      "line1": "6133 Main St",
+      "city": "Riverside",
+      "state": "CA"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1633974703"
+  },
+  {
+    "memberId": "PORTAL-000038",
+    "name": {
+      "first": "Liam",
+      "last": "Martinez"
+    },
+    "dateOfBirth": "2017-05-02",
+    "sex": "Male",
+    "address": {
+      "line1": "5139 Main St",
+      "city": "Georgetown",
+      "state": "OH"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": null
+  },
+  {
+    "memberId": "PORTAL-000022",
+    "name": {
+      "first": "Wei",
+      "last": "Rodriguez"
+    },
+    "dateOfBirth": "1977-05-09",
+    "sex": "Male",
+    "address": {
+      "line1": "6556 Main St",
+      "city": "Riverside",
+      "state": "CA"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1776426565"
+  },
+  {
+    "memberId": "PORTAL-000073",
+    "name": {
+      "first": "Emma",
+      "last": "Miller"
+    },
+    "dateOfBirth": "1993-03-30",
+    "sex": "Female",
+    "address": {
+      "line1": "720 Main St",
+      "city": "Georgetown",
+      "state": "OH"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1261000857"
+  },
+  {
+    "memberId": "PORTAL-000057",
+    "name": {
+      "first": "Wei",
+      "last": "Nguyen"
+    },
+    "dateOfBirth": "1986-04-11",
+    "sex": "Male",
+    "address": {
+      "line1": "3099 Main St",
+      "city": "Clinton",
+      "state": "MI"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1067104832"
+  },
+  {
+    "memberId": "PORTAL-100451",
+    "name": {
+      "first": "Linda",
+      "last": "Smith"
+    },
+    "dateOfBirth": "1977-06-27",
+    "sex": "Male",
+    "address": {
+      "line1": "5351 Main St",
+      "city": "Fairview",
+      "state": "TX"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1378508511"
+  },
+  {
+    "memberId": "PORTAL-000172",
+    "name": {
+      "first": "James",
+      "last": "Johnson"
+    },
+    "dateOfBirth": "2013-09-10",
+    "sex": "Female",
+    "address": {
+      "line1": "7956 Main St",
+      "city": "Riverside",
+      "state": "CA"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": null
+  },
+  {
+    "memberId": "PORTAL-100404",
+    "name": {
+      "first": "John",
+      "last": "Khan"
+    },
+    "dateOfBirth": "2004-04-15",
+    "sex": "Male",
+    "address": {
+      "line1": "6505 Main St",
+      "city": "Clinton",
+      "state": "MI"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1678231686"
+  },
+  {
+    "memberId": "PORTAL-100401",
+    "name": {
+      "first": "David",
+      "last": "Anderson"
+    },
+    "dateOfBirth": "2015-02-28",
+    "sex": "Male",
+    "address": {
+      "line1": "5186 Main St",
+      "city": "Fairview",
+      "state": "TX"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": null
+  },
+  {
+    "memberId": "PORTAL-000163",
+    "name": {
+      "first": "David",
+      "last": "Smith"
+    },
+    "dateOfBirth": "2021-12-18",
+    "sex": "Male",
+    "address": {
+      "line1": "2447 Main St",
+      "city": "Fairview",
+      "state": "TX"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1851860108"
+  },
+  {
+    "memberId": "PORTAL-100437",
+    "name": {
+      "first": "David",
+      "last": "Martinez"
+    },
+    "dateOfBirth": "2005-06-27",
+    "sex": "Female",
+    "address": {
+      "line1": "9250 Main St",
+      "city": "Georgetown",
+      "state": "OH"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1532892811"
+  },
+  {
+    "memberId": "PORTAL-100237",
+    "name": {
+      "first": "Linda",
+      "last": "Jones"
+    },
+    "dateOfBirth": "1937-08-13",
+    "sex": "Male",
+    "address": {
+      "line1": "4935 Main St",
+      "city": "Clinton",
+      "state": "MI"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1455041945"
+  },
+  {
+    "memberId": "PORTAL-100195",
+    "name": {
+      "first": "Linda",
+      "last": "Patel"
+    },
+    "dateOfBirth": "2009-08-13",
+    "sex": "Male",
+    "address": {
+      "line1": "5287 Main St",
+      "city": "Fairview",
+      "state": "TX"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": null
+  },
+  {
+    "memberId": "PORTAL-100414",
+    "name": {
+      "first": "Carlos",
+      "last": "Silva"
+    },
+    "dateOfBirth": "1950-08-21",
+    "sex": "Male",
+    "address": {
+      "line1": "9540 Main St",
+      "city": "Clinton",
+      "state": "MI"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1542784729"
+  },
+  {
+    "memberId": "PORTAL-100293",
+    "name": {
+      "first": "James",
+      "last": "Silva"
+    },
+    "dateOfBirth": "2019-12-07",
+    "sex": "Female",
+    "address": {
+      "line1": "7853 Main St",
+      "city": "Clinton",
+      "state": "MI"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1343614164"
+  },
+  {
+    "memberId": "PORTAL-100362",
+    "name": {
+      "first": "Kevin",
+      "last": "Williams"
+    },
+    "dateOfBirth": "1966-12-04",
+    "sex": "Female",
+    "address": {
+      "line1": "6136 Main St",
+      "city": "Fairview",
+      "state": "TX"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1344680928"
+  },
+  {
+    "memberId": "PORTAL-000125",
+    "name": {
+      "first": "Patricia",
+      "last": "Jones"
+    },
+    "dateOfBirth": "2025-06-05",
+    "sex": "Female",
+    "address": {
+      "line1": "3399 Main St",
+      "city": "Fairview",
+      "state": "TX"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1028939610"
+  },
+  {
+    "memberId": "PORTAL-100413",
+    "name": {
+      "first": "Barbara",
+      "last": "Garcia"
+    },
+    "dateOfBirth": "1994-03-19",
+    "sex": "Female",
+    "address": {
+      "line1": "9137 Main St",
+      "city": "Riverside",
+      "state": "CA"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1055810777"
+  },
+  {
+    "memberId": "PORTAL-000174",
+    "name": {
+      "first": "Patricia",
+      "last": "Williams"
+    },
+    "dateOfBirth": "1965-04-14",
+    "sex": "Female",
+    "address": {
+      "line1": "3048 Main St",
+      "city": "Georgetown",
+      "state": "OH"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1807083792"
+  },
+  {
+    "memberId": "PORTAL-100198",
+    "name": {
+      "first": "Robert",
+      "last": "Johnson"
+    },
+    "dateOfBirth": "1956-07-19",
+    "sex": "Male",
+    "address": {
+      "line1": "2952 Main St",
+      "city": "Fairview",
+      "state": "TX"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": null
+  },
+  {
+    "memberId": "PORTAL-000090",
+    "name": {
+      "first": "Carlos",
+      "last": "Kim"
+    },
+    "dateOfBirth": "1970-03-26",
+    "sex": "Male",
+    "address": {
+      "line1": "519 Main St",
+      "city": "Springfield",
+      "state": "IL"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1748489688"
+  },
+  {
+    "memberId": "PORTAL-100426",
+    "name": {
+      "first": "James",
+      "last": "Rodriguez"
+    },
+    "dateOfBirth": "2013-06-04",
+    "sex": "Female",
+    "address": {
+      "line1": "3687 Main St",
+      "city": "Georgetown",
+      "state": "OH"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1691674543"
+  },
+  {
+    "memberId": "PORTAL-100208",
+    "name": {
+      "first": "Linda",
+      "last": "Williams"
+    },
+    "dateOfBirth": "2016-10-17",
+    "sex": "Male",
+    "address": {
+      "line1": "1935 Main St",
+      "city": "Riverside",
+      "state": "CA"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1540974648"
+  },
+  {
+    "memberId": "PORTAL-000179",
+    "name": {
+      "first": "David",
+      "last": "Nguyen"
+    },
+    "dateOfBirth": "2016-10-15",
+    "sex": "Female",
+    "address": {
+      "line1": "7389 Main St",
+      "city": "Springfield",
+      "state": "IL"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1275361386"
+  },
+  {
+    "memberId": "PORTAL-100303",
+    "name": {
+      "first": "Priya",
+      "last": "Rodriguez"
+    },
+    "dateOfBirth": "1997-06-01",
+    "sex": "Female",
+    "address": {
+      "line1": "7367 Main St",
+      "city": "Franklin",
+      "state": "NC"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1714880525"
+  },
+  {
+    "memberId": "PORTAL-100410",
+    "name": {
+      "first": "James",
+      "last": "Clark"
+    },
+    "dateOfBirth": "1961-07-04",
+    "sex": "Male",
+    "address": {
+      "line1": "8828 Main St",
+      "city": "Springfield",
+      "state": "IL"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1268670190"
+  },
+  {
+    "memberId": "PORTAL-100318",
+    "name": {
+      "first": "Fatima",
+      "last": "Clark"
+    },
+    "dateOfBirth": "1956-07-07",
+    "sex": "Male",
+    "address": {
+      "line1": "4343 Main St",
+      "city": "Riverside",
+      "state": "CA"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1075627941"
+  },
+  {
+    "memberId": "PORTAL-000100",
+    "name": {
+      "first": "Elizabeth",
+      "last": "Brown"
+    },
+    "dateOfBirth": "1991-10-14",
+    "sex": "Male",
+    "address": {
+      "line1": "3829 Main St",
+      "city": "Franklin",
+      "state": "NC"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1846950140"
+  },
+  {
+    "memberId": "PORTAL-100218",
+    "name": {
+      "first": "James",
+      "last": "Silva"
+    },
+    "dateOfBirth": "2011-12-27",
+    "sex": "Female",
+    "address": {
+      "line1": "8226 Main St",
+      "city": "Franklin",
+      "state": "NC"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1589290634"
+  },
+  {
+    "memberId": "PORTAL-100391",
+    "name": {
+      "first": "Barbara",
+      "last": "Rodriguez"
+    },
+    "dateOfBirth": "1983-11-14",
+    "sex": "Male",
+    "address": {
+      "line1": "9348 Main St",
+      "city": "Fairview",
+      "state": "TX"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1087630052"
+  },
+  {
+    "memberId": "PORTAL-100424",
+    "name": {
+      "first": "Anita",
+      "last": "Davis"
+    },
+    "dateOfBirth": "1960-11-22",
+    "sex": "Male",
+    "address": {
+      "line1": "7624 Main St",
+      "city": "Franklin",
+      "state": "NC"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1833955476"
+  },
+  {
+    "memberId": "PORTAL-100183",
+    "name": {
+      "first": "Michael",
+      "last": "Anderson"
+    },
+    "dateOfBirth": "1971-02-17",
+    "sex": "Female",
+    "address": {
+      "line1": "9021 Main St",
+      "city": "Clinton",
+      "state": "MI"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1110461138"
+  },
+  {
+    "memberId": "PORTAL-100370",
+    "name": {
+      "first": "Priya",
+      "last": "Nguyen"
+    },
+    "dateOfBirth": "1949-06-05",
+    "sex": "Male",
+    "address": {
+      "line1": "5301 Main St",
+      "city": "Franklin",
+      "state": "NC"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1226380011"
+  },
+  {
+    "memberId": "PORTAL-100209",
+    "name": {
+      "first": "Noah",
+      "last": "Kim"
+    },
+    "dateOfBirth": "2018-10-30",
+    "sex": "Female",
+    "address": {
+      "line1": "6992 Main St",
+      "city": "Springfield",
+      "state": "IL"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": null
+  },
+  {
+    "memberId": "PORTAL-100192",
+    "name": {
+      "first": "Kevin",
+      "last": "Anderson"
+    },
+    "dateOfBirth": "1942-06-18",
+    "sex": "Male",
+    "address": {
+      "line1": "8427 Main St",
+      "city": "Franklin",
+      "state": "NC"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1907870800"
+  },
+  {
+    "memberId": "PORTAL-000035",
+    "name": {
+      "first": "Patricia",
+      "last": "Williams"
+    },
+    "dateOfBirth": "1992-10-05",
+    "sex": "Male",
+    "address": {
+      "line1": "3937 Main St",
+      "city": "Fairview",
+      "state": "TX"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1938144494"
+  },
+  {
+    "memberId": "PORTAL-000019",
+    "name": {
+      "first": "Mary",
+      "last": "Anderson"
+    },
+    "dateOfBirth": "1946-01-25",
+    "sex": "Male",
+    "address": {
+      "line1": "9250 Main St",
+      "city": "Riverside",
+      "state": "CA"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1837407188"
+  },
+  {
+    "memberId": "PORTAL-000087",
+    "name": {
+      "first": "Noah",
+      "last": "Patel"
+    },
+    "dateOfBirth": "1967-11-20",
+    "sex": "Female",
+    "address": {
+      "line1": "4008 Main St",
+      "city": "Fairview",
+      "state": "TX"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1744340028"
+  },
+  {
+    "memberId": "PORTAL-000063",
+    "name": {
+      "first": "Linda",
+      "last": "Patel"
+    },
+    "dateOfBirth": "1944-10-05",
+    "sex": "Male",
+    "address": {
+      "line1": "7874 Main St",
+      "city": "Georgetown",
+      "state": "OH"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1346564804"
+  },
+  {
+    "memberId": "PORTAL-100376",
+    "name": {
+      "first": "Elizabeth",
+      "last": "Silva"
+    },
+    "dateOfBirth": "2003-08-14",
+    "sex": "Male",
+    "address": {
+      "line1": "783 Main St",
+      "city": "Clinton",
+      "state": "MI"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1929792055"
+  },
+  {
+    "memberId": "PORTAL-100258",
+    "name": {
+      "first": "James",
+      "last": "Brown"
+    },
+    "dateOfBirth": "2009-05-19",
+    "sex": "Female",
+    "address": {
+      "line1": "5676 Main St",
+      "city": "Riverside",
+      "state": "CA"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1845100262"
+  },
+  {
+    "memberId": "PORTAL-100288",
+    "name": {
+      "first": "Priya",
+      "last": "Chen"
+    },
+    "dateOfBirth": "1993-07-30",
+    "sex": "Female",
+    "address": {
+      "line1": "9154 Main St",
+      "city": "Georgetown",
+      "state": "OH"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1539752785"
+  },
+  {
+    "memberId": "PORTAL-000037",
+    "name": {
+      "first": "Barbara",
+      "last": "Brown"
+    },
+    "dateOfBirth": "2020-05-08",
+    "sex": "Male",
+    "address": {
+      "line1": "2416 Main St",
+      "city": "Georgetown",
+      "state": "OH"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1409305652"
+  },
+  {
+    "memberId": "PORTAL-100397",
+    "name": {
+      "first": "Barbara",
+      "last": "Silva"
+    },
+    "dateOfBirth": "2026-02-13",
+    "sex": "Female",
+    "address": {
+      "line1": "5556 Main St",
+      "city": "Clinton",
+      "state": "MI"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1403996012"
+  },
+  {
+    "memberId": "PORTAL-000141",
+    "name": {
+      "first": "Liam",
+      "last": "Clark"
+    },
+    "dateOfBirth": "2015-05-04",
+    "sex": "Male",
+    "address": {
+      "line1": "5838 Main St",
+      "city": "Georgetown",
+      "state": "OH"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1552141871"
+  },
+  {
+    "memberId": "PORTAL-100290",
+    "name": {
+      "first": "Barbara",
+      "last": "Davis"
+    },
+    "dateOfBirth": "1954-02-09",
+    "sex": "Male",
+    "address": {
+      "line1": "1586 Main St",
+      "city": "Fairview",
+      "state": "TX"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1046385581"
+  },
+  {
+    "memberId": "PORTAL-100221",
+    "name": {
+      "first": "Priya",
+      "last": "Jones"
+    },
+    "dateOfBirth": "2014-03-22",
+    "sex": "Male",
+    "address": {
+      "line1": "7838 Main St",
+      "city": "Springfield",
+      "state": "IL"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": null
+  },
+  {
+    "memberId": "PORTAL-000001",
+    "name": {
+      "first": "Mary",
+      "last": "Clark"
+    },
+    "dateOfBirth": "2009-03-21",
+    "sex": "Female",
+    "address": {
+      "line1": "1076 Main St",
+      "city": "Franklin",
+      "state": "NC"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1865797543"
+  },
+  {
+    "memberId": "PORTAL-100289",
+    "name": {
+      "first": "Fatima",
+      "last": "Patel"
+    },
+    "dateOfBirth": "1939-09-20",
+    "sex": "Male",
+    "address": {
+      "line1": "8985 Main St",
+      "city": "Riverside",
+      "state": "CA"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1582965381"
+  },
+  {
+    "memberId": "PORTAL-100254",
+    "name": {
+      "first": "Michael",
+      "last": "Kim"
+    },
+    "dateOfBirth": "1968-05-15",
+    "sex": "Female",
+    "address": {
+      "line1": "8128 Main St",
+      "city": "Clinton",
+      "state": "MI"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1834879038"
+  },
+  {
+    "memberId": "PORTAL-100454",
+    "name": {
+      "first": "Mary",
+      "last": "Miller"
+    },
+    "dateOfBirth": "1952-09-05",
+    "sex": "Female",
+    "address": {
+      "line1": "8641 Main St",
+      "city": "Riverside",
+      "state": "CA"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1167561992"
+  },
+  {
+    "memberId": "PORTAL-100361",
+    "name": {
+      "first": "Robert",
+      "last": "Brown"
+    },
+    "dateOfBirth": "1938-11-24",
+    "sex": "Male",
+    "address": {
+      "line1": "4971 Main St",
+      "city": "Riverside",
+      "state": "CA"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1148379321"
+  },
+  {
+    "memberId": "PORTAL-100210",
+    "name": {
+      "first": "Kevin",
+      "last": "Anderson"
+    },
+    "dateOfBirth": "1953-04-09",
+    "sex": "Female",
+    "address": {
+      "line1": "291 Main St",
+      "city": "Clinton",
+      "state": "MI"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1339309324"
+  },
+  {
+    "memberId": "PORTAL-100281",
+    "name": {
+      "first": "Mary",
+      "last": "Davis"
+    },
+    "dateOfBirth": "1976-12-27",
+    "sex": "Male",
+    "address": {
+      "line1": "2056 Main St",
+      "city": "Georgetown",
+      "state": "OH"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1214318836"
+  },
+  {
+    "memberId": "PORTAL-000089",
+    "name": {
+      "first": "Patricia",
+      "last": "Silva"
+    },
+    "dateOfBirth": "1975-11-06",
+    "sex": "Male",
+    "address": {
+      "line1": "7602 Main St",
+      "city": "Clinton",
+      "state": "MI"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1456889650"
+  },
+  {
+    "memberId": "PORTAL-000062",
+    "name": {
+      "first": "Wei",
+      "last": "Brown"
+    },
+    "dateOfBirth": "1955-07-01",
+    "sex": "Female",
+    "address": {
+      "line1": "208 Main St",
+      "city": "Clinton",
+      "state": "MI"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1797475661"
+  },
+  {
+    "memberId": "PORTAL-100229",
+    "name": {
+      "first": "James",
+      "last": "Silva"
+    },
+    "dateOfBirth": "2021-12-08",
+    "sex": "Male",
+    "address": {
+      "line1": "9175 Main St",
+      "city": "Riverside",
+      "state": "CA"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1326121546"
+  },
+  {
+    "memberId": "PORTAL-100415",
+    "name": {
+      "first": "Noah",
+      "last": "Garcia"
+    },
+    "dateOfBirth": "1952-10-01",
+    "sex": "Male",
+    "address": {
+      "line1": "1342 Main St",
+      "city": "Franklin",
+      "state": "NC"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1565477171"
+  },
+  {
+    "memberId": "PORTAL-000067",
+    "name": {
+      "first": "Carlos",
+      "last": "Miller"
+    },
+    "dateOfBirth": "2006-10-01",
+    "sex": "Male",
+    "address": {
+      "line1": "6094 Main St",
+      "city": "Springfield",
+      "state": "IL"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1214877400"
+  },
+  {
+    "memberId": "PORTAL-100302",
+    "name": {
+      "first": "Fatima",
+      "last": "Clark"
+    },
+    "dateOfBirth": "1959-04-26",
+    "sex": "Female",
+    "address": {
+      "line1": "6680 Main St",
+      "city": "Franklin",
+      "state": "NC"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1665528719"
+  },
+  {
+    "memberId": "PORTAL-000135",
+    "name": {
+      "first": "Priya",
+      "last": "Johnson"
+    },
+    "dateOfBirth": "1946-06-19",
+    "sex": "Female",
+    "address": {
+      "line1": "8619 Main St",
+      "city": "Georgetown",
+      "state": "OH"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1644868604"
+  },
+  {
+    "memberId": "PORTAL-100476",
+    "name": {
+      "first": "David",
+      "last": "Miller"
+    },
+    "dateOfBirth": "1985-05-22",
+    "sex": "Male",
+    "address": {
+      "line1": "7564 Main St",
+      "city": "Springfield",
+      "state": "IL"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1129134258"
+  },
+  {
+    "memberId": "PORTAL-000159",
+    "name": {
+      "first": "David",
+      "last": "Rodriguez"
+    },
+    "dateOfBirth": "2000-11-05",
+    "sex": "Female",
+    "address": {
+      "line1": "5109 Main St",
+      "city": "Georgetown",
+      "state": "OH"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1256071512"
+  },
+  {
+    "memberId": "PORTAL-000126",
+    "name": {
+      "first": "Mary",
+      "last": "Chen"
+    },
+    "dateOfBirth": "2018-06-19",
+    "sex": "Male",
+    "address": {
+      "line1": "5825 Main St",
+      "city": "Springfield",
+      "state": "IL"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1314204410"
+  },
+  {
+    "memberId": "PORTAL-000010",
+    "name": {
+      "first": "David",
+      "last": "Miller"
+    },
+    "dateOfBirth": "2023-04-07",
+    "sex": "Male",
+    "address": {
+      "line1": "8813 Main St",
+      "city": "Fairview",
+      "state": "TX"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1072902227"
+  },
+  {
+    "memberId": "PORTAL-100407",
+    "name": {
+      "first": "Kevin",
+      "last": "Rodriguez"
+    },
+    "dateOfBirth": "1995-08-09",
+    "sex": "Female",
+    "address": {
+      "line1": "4178 Main St",
+      "city": "Georgetown",
+      "state": "OH"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1511092720"
+  },
+  {
+    "memberId": "PORTAL-000108",
+    "name": {
+      "first": "Fatima",
+      "last": "Khan"
+    },
+    "dateOfBirth": "1971-11-26",
+    "sex": "Male",
+    "address": {
+      "line1": "5726 Main St",
+      "city": "Georgetown",
+      "state": "OH"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1033712958"
+  },
+  {
+    "memberId": "PORTAL-000169",
+    "name": {
+      "first": "Elizabeth",
+      "last": "Williams"
+    },
+    "dateOfBirth": "2018-07-11",
+    "sex": "Male",
+    "address": {
+      "line1": "2938 Main St",
+      "city": "Riverside",
+      "state": "CA"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": null
+  },
+  {
+    "memberId": "PORTAL-100465",
+    "name": {
+      "first": "Liam",
+      "last": "Rodriguez"
+    },
+    "dateOfBirth": "1962-07-01",
+    "sex": "Male",
+    "address": {
+      "line1": "8069 Main St",
+      "city": "Franklin",
+      "state": "NC"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1482694196"
+  },
+  {
+    "memberId": "PORTAL-000066",
+    "name": {
+      "first": "Elizabeth",
+      "last": "Clark"
+    },
+    "dateOfBirth": "1936-04-24",
+    "sex": "Female",
+    "address": {
+      "line1": "6729 Main St",
+      "city": "Clinton",
+      "state": "MI"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1699276811"
+  },
+  {
+    "memberId": "PORTAL-100319",
+    "name": {
+      "first": "Robert",
+      "last": "Clark"
+    },
+    "dateOfBirth": "1976-04-08",
+    "sex": "Female",
+    "address": {
+      "line1": "6909 Main St",
+      "city": "Fairview",
+      "state": "TX"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1937904918"
+  },
+  {
+    "memberId": "PORTAL-100200",
+    "name": {
+      "first": "Noah",
+      "last": "Jones"
+    },
+    "dateOfBirth": "1962-05-19",
+    "sex": "Female",
+    "address": {
+      "line1": "3565 Main St",
+      "city": "Georgetown",
+      "state": "OH"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1220974280"
+  },
+  {
+    "memberId": "PORTAL-000143",
+    "name": {
+      "first": "Carlos",
+      "last": "Rodriguez"
+    },
+    "dateOfBirth": "1957-11-25",
+    "sex": "Male",
+    "address": {
+      "line1": "8862 Main St",
+      "city": "Fairview",
+      "state": "TX"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1101079331"
+  },
+  {
+    "memberId": "PORTAL-100285",
+    "name": {
+      "first": "James",
+      "last": "Martinez"
+    },
+    "dateOfBirth": "1974-11-08",
+    "sex": "Female",
+    "address": {
+      "line1": "751 Main St",
+      "city": "Springfield",
+      "state": "IL"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1948674727"
+  },
+  {
+    "memberId": "PORTAL-100255",
+    "name": {
+      "first": "Kevin",
+      "last": "Silva"
+    },
+    "dateOfBirth": "1992-12-10",
+    "sex": "Female",
+    "address": {
+      "line1": "9893 Main St",
+      "city": "Georgetown",
+      "state": "OH"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1375181191"
+  },
+  {
+    "memberId": "PORTAL-000106",
+    "name": {
+      "first": "Mary",
+      "last": "Brown"
+    },
+    "dateOfBirth": "1953-10-13",
+    "sex": "Female",
+    "address": {
+      "line1": "6676 Main St",
+      "city": "Riverside",
+      "state": "CA"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": null
+  },
+  {
+    "memberId": "PORTAL-000150",
+    "name": {
+      "first": "Robert",
+      "last": "Anderson"
+    },
+    "dateOfBirth": "1947-03-16",
+    "sex": "Female",
+    "address": {
+      "line1": "6279 Main St",
+      "city": "Franklin",
+      "state": "NC"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1829705720"
+  },
+  {
+    "memberId": "PORTAL-100345",
+    "name": {
+      "first": "Carlos",
+      "last": "Jones"
+    },
+    "dateOfBirth": "2024-09-24",
+    "sex": "Male",
+    "address": {
+      "line1": "1950 Main St",
+      "city": "Fairview",
+      "state": "TX"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1835656887"
+  },
+  {
+    "memberId": "PORTAL-000058",
+    "name": {
+      "first": "David",
+      "last": "Anderson"
+    },
+    "dateOfBirth": "1982-07-03",
+    "sex": "Female",
+    "address": {
+      "line1": "5924 Main St",
+      "city": "Springfield",
+      "state": "IL"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1466001665"
+  },
+  {
+    "memberId": "PORTAL-100327",
+    "name": {
+      "first": "Michael",
+      "last": "Garcia"
+    },
+    "dateOfBirth": "1979-04-06",
+    "sex": "Female",
+    "address": {
+      "line1": "2969 Main St",
+      "city": "Georgetown",
+      "state": "OH"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1450819740"
+  },
+  {
+    "memberId": "PORTAL-000032",
+    "name": {
+      "first": "Wei",
+      "last": "Garcia"
+    },
+    "dateOfBirth": "2013-08-14",
+    "sex": "Male",
+    "address": {
+      "line1": "8972 Main St",
+      "city": "Georgetown",
+      "state": "OH"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1570636060"
+  },
+  {
+    "memberId": "PORTAL-000011",
+    "name": {
+      "first": "Liam",
+      "last": "Brown"
+    },
+    "dateOfBirth": "1955-07-30",
+    "sex": "Female",
+    "address": {
+      "line1": "9303 Main St",
+      "city": "Riverside",
+      "state": "CA"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1175989834"
+  },
+  {
+    "memberId": "PORTAL-100456",
+    "name": {
+      "first": "John",
+      "last": "Davis"
+    },
+    "dateOfBirth": "1943-09-25",
+    "sex": "Male",
+    "address": {
+      "line1": "5188 Main St",
+      "city": "Franklin",
+      "state": "NC"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1863837543"
+  },
+  {
+    "memberId": "PORTAL-000050",
+    "name": {
+      "first": "Carlos",
+      "last": "Anderson"
+    },
+    "dateOfBirth": "1937-08-31",
+    "sex": "Male",
+    "address": {
+      "line1": "6515 Main St",
+      "city": "Fairview",
+      "state": "TX"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1922001192"
+  },
+  {
+    "memberId": "PORTAL-000040",
+    "name": {
+      "first": "Linda",
+      "last": "Jones"
+    },
+    "dateOfBirth": "1982-03-31",
+    "sex": "Male",
+    "address": {
+      "line1": "2725 Main St",
+      "city": "Springfield",
+      "state": "IL"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1396937293"
+  },
+  {
+    "memberId": "PORTAL-000128",
+    "name": {
+      "first": "Kevin",
+      "last": "Davis"
+    },
+    "dateOfBirth": "2000-09-13",
+    "sex": "Male",
+    "address": {
+      "line1": "7810 Main St",
+      "city": "Clinton",
+      "state": "MI"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1863651684"
+  },
+  {
+    "memberId": "PORTAL-000105",
+    "name": {
+      "first": "Liam",
+      "last": "Rodriguez"
+    },
+    "dateOfBirth": "1943-04-30",
+    "sex": "Male",
+    "address": {
+      "line1": "3123 Main St",
+      "city": "Riverside",
+      "state": "CA"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1535285430"
+  },
+  {
+    "memberId": "PORTAL-100380",
+    "name": {
+      "first": "James",
+      "last": "Chen"
+    },
+    "dateOfBirth": "1947-06-17",
+    "sex": "Female",
+    "address": {
+      "line1": "7273 Main St",
+      "city": "Fairview",
+      "state": "TX"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1715367281"
+  },
+  {
+    "memberId": "PORTAL-000045",
+    "name": {
+      "first": "Kevin",
+      "last": "Patel"
+    },
+    "dateOfBirth": "1993-02-09",
+    "sex": "Female",
+    "address": {
+      "line1": "129 Main St",
+      "city": "Clinton",
+      "state": "MI"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1249668502"
+  },
+  {
+    "memberId": "PORTAL-000133",
+    "name": {
+      "first": "Kevin",
+      "last": "Jones"
+    },
+    "dateOfBirth": "1947-05-26",
+    "sex": "Female",
+    "address": {
+      "line1": "7678 Main St",
+      "city": "Franklin",
+      "state": "NC"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1667217672"
+  },
+  {
+    "memberId": "PORTAL-100434",
+    "name": {
+      "first": "David",
+      "last": "Williams"
+    },
+    "dateOfBirth": "2007-12-16",
+    "sex": "Male",
+    "address": {
+      "line1": "3165 Main St",
+      "city": "Franklin",
+      "state": "NC"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1268251276"
+  },
+  {
+    "memberId": "PORTAL-000122",
+    "name": {
+      "first": "Anita",
+      "last": "Jones"
+    },
+    "dateOfBirth": "2004-05-27",
+    "sex": "Male",
+    "address": {
+      "line1": "3592 Main St",
+      "city": "Riverside",
+      "state": "CA"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": null
+  },
+  {
+    "memberId": "PORTAL-100236",
+    "name": {
+      "first": "Patricia",
+      "last": "Nguyen"
+    },
+    "dateOfBirth": "1986-12-18",
+    "sex": "Male",
+    "address": {
+      "line1": "7174 Main St",
+      "city": "Fairview",
+      "state": "TX"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1162792042"
+  },
+  {
+    "memberId": "PORTAL-000048",
+    "name": {
+      "first": "David",
+      "last": "Anderson"
+    },
+    "dateOfBirth": "1948-10-06",
+    "sex": "Female",
+    "address": {
+      "line1": "3801 Main St",
+      "city": "Fairview",
+      "state": "TX"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1015404868"
+  },
+  {
+    "memberId": "PORTAL-100206",
+    "name": {
+      "first": "Priya",
+      "last": "Jones"
+    },
+    "dateOfBirth": "1936-03-08",
+    "sex": "Male",
+    "address": {
+      "line1": "7093 Main St",
+      "city": "Riverside",
+      "state": "CA"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1016001221"
+  },
+  {
+    "memberId": "PORTAL-000132",
+    "name": {
+      "first": "Mary",
+      "last": "Garcia"
+    },
+    "dateOfBirth": "1986-11-17",
+    "sex": "Female",
+    "address": {
+      "line1": "819 Main St",
+      "city": "Georgetown",
+      "state": "OH"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1504669453"
+  },
+  {
+    "memberId": "PORTAL-100259",
+    "name": {
+      "first": "Wei",
+      "last": "Garcia"
+    },
+    "dateOfBirth": "2011-11-26",
+    "sex": "Female",
+    "address": {
+      "line1": "1276 Main St",
+      "city": "Franklin",
+      "state": "NC"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1729815608"
+  },
+  {
+    "memberId": "PORTAL-100311",
+    "name": {
+      "first": "David",
+      "last": "Chen"
+    },
+    "dateOfBirth": "1971-07-03",
+    "sex": "Male",
+    "address": {
+      "line1": "5744 Main St",
+      "city": "Franklin",
+      "state": "NC"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1327724300"
+  },
+  {
+    "memberId": "PORTAL-000095",
+    "name": {
+      "first": "Mary",
+      "last": "Davis"
+    },
+    "dateOfBirth": "1975-10-31",
+    "sex": "Male",
+    "address": {
+      "line1": "8219 Main St",
+      "city": "Georgetown",
+      "state": "OH"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1693646703"
+  },
+  {
+    "memberId": "PORTAL-100379",
+    "name": {
+      "first": "James",
+      "last": "Davis"
+    },
+    "dateOfBirth": "1970-09-15",
+    "sex": "Male",
+    "address": {
+      "line1": "7024 Main St",
+      "city": "Clinton",
+      "state": "MI"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": null
+  },
+  {
+    "memberId": "PORTAL-000069",
+    "name": {
+      "first": "Carlos",
+      "last": "Kim"
+    },
+    "dateOfBirth": "1969-04-09",
+    "sex": "Female",
+    "address": {
+      "line1": "353 Main St",
+      "city": "Clinton",
+      "state": "MI"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1496366693"
+  },
+  {
+    "memberId": "PORTAL-000104",
+    "name": {
+      "first": "Patricia",
+      "last": "Martinez"
+    },
+    "dateOfBirth": "1969-06-30",
+    "sex": "Male",
+    "address": {
+      "line1": "1882 Main St",
+      "city": "Georgetown",
+      "state": "OH"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1673850514"
+  },
+  {
+    "memberId": "PORTAL-100185",
+    "name": {
+      "first": "Barbara",
+      "last": "Silva"
+    },
+    "dateOfBirth": "2016-08-07",
+    "sex": "Male",
+    "address": {
+      "line1": "7470 Main St",
+      "city": "Springfield",
+      "state": "IL"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1255890986"
+  },
+  {
+    "memberId": "PORTAL-000044",
+    "name": {
+      "first": "Mary",
+      "last": "Miller"
+    },
+    "dateOfBirth": "2003-01-24",
+    "sex": "Male",
+    "address": {
+      "line1": "1813 Main St",
+      "city": "Clinton",
+      "state": "MI"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": null
+  },
+  {
+    "memberId": "PORTAL-100421",
+    "name": {
+      "first": "Michael",
+      "last": "Khan"
+    },
+    "dateOfBirth": "1985-05-06",
+    "sex": "Female",
+    "address": {
+      "line1": "2721 Main St",
+      "city": "Springfield",
+      "state": "IL"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1441329473"
+  },
+  {
+    "memberId": "PORTAL-100445",
+    "name": {
+      "first": "Wei",
+      "last": "Davis"
+    },
+    "dateOfBirth": "1944-02-29",
+    "sex": "Female",
+    "address": {
+      "line1": "6814 Main St",
+      "city": "Georgetown",
+      "state": "OH"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1724689130"
+  },
+  {
+    "memberId": "PORTAL-100326",
+    "name": {
+      "first": "Wei",
+      "last": "Anderson"
+    },
+    "dateOfBirth": "1979-02-26",
+    "sex": "Male",
+    "address": {
+      "line1": "2007 Main St",
+      "city": "Franklin",
+      "state": "NC"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1936795657"
+  },
+  {
+    "memberId": "PORTAL-100242",
+    "name": {
+      "first": "Noah",
+      "last": "Martinez"
+    },
+    "dateOfBirth": "1960-07-27",
+    "sex": "Male",
+    "address": {
+      "line1": "6725 Main St",
+      "city": "Georgetown",
+      "state": "OH"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1769138239"
+  },
+  {
+    "memberId": "PORTAL-000051",
+    "name": {
+      "first": "Anita",
+      "last": "Jones"
+    },
+    "dateOfBirth": "1937-08-20",
+    "sex": "Male",
+    "address": {
+      "line1": "3470 Main St",
+      "city": "Fairview",
+      "state": "TX"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1014712134"
+  },
+  {
+    "memberId": "PORTAL-000055",
+    "name": {
+      "first": "John",
+      "last": "Chen"
+    },
+    "dateOfBirth": "1966-10-02",
+    "sex": "Male",
+    "address": {
+      "line1": "5475 Main St",
+      "city": "Fairview",
+      "state": "TX"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1121362244"
+  },
+  {
+    "memberId": "PORTAL-100388",
+    "name": {
+      "first": "Fatima",
+      "last": "Jones"
+    },
+    "dateOfBirth": "1953-12-12",
+    "sex": "Male",
+    "address": {
+      "line1": "9949 Main St",
+      "city": "Franklin",
+      "state": "NC"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1373476895"
+  },
+  {
+    "memberId": "PORTAL-000140",
+    "name": {
+      "first": "Kevin",
+      "last": "Jones"
+    },
+    "dateOfBirth": "1944-04-05",
+    "sex": "Male",
+    "address": {
+      "line1": "8690 Main St",
+      "city": "Clinton",
+      "state": "MI"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1750713744"
+  },
+  {
+    "memberId": "PORTAL-100188",
+    "name": {
+      "first": "Barbara",
+      "last": "Jones"
+    },
+    "dateOfBirth": "1936-03-03",
+    "sex": "Male",
+    "address": {
+      "line1": "5341 Main St",
+      "city": "Franklin",
+      "state": "NC"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1133809479"
+  },
+  {
+    "memberId": "PORTAL-100473",
+    "name": {
+      "first": "Mary",
+      "last": "Garcia"
+    },
+    "dateOfBirth": "2001-03-12",
+    "sex": "Male",
+    "address": {
+      "line1": "2563 Main St",
+      "city": "Fairview",
+      "state": "TX"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1585681171"
+  },
+  {
+    "memberId": "PORTAL-100212",
+    "name": {
+      "first": "Fatima",
+      "last": "Kim"
+    },
+    "dateOfBirth": "1948-12-06",
+    "sex": "Female",
+    "address": {
+      "line1": "9403 Main St",
+      "city": "Fairview",
+      "state": "TX"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": null
+  },
+  {
+    "memberId": "PORTAL-100408",
+    "name": {
+      "first": "Anita",
+      "last": "Martinez"
+    },
+    "dateOfBirth": "1995-05-06",
+    "sex": "Male",
+    "address": {
+      "line1": "4533 Main St",
+      "city": "Clinton",
+      "state": "MI"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1844994372"
+  },
+  {
+    "memberId": "PORTAL-100222",
+    "name": {
+      "first": "Wei",
+      "last": "Miller"
+    },
+    "dateOfBirth": "1937-04-26",
+    "sex": "Male",
+    "address": {
+      "line1": "7740 Main St",
+      "city": "Georgetown",
+      "state": "OH"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": null
+  },
+  {
+    "memberId": "PORTAL-100425",
+    "name": {
+      "first": "Carlos",
+      "last": "Khan"
+    },
+    "dateOfBirth": "1961-12-05",
+    "sex": "Female",
+    "address": {
+      "line1": "6119 Main St",
+      "city": "Georgetown",
+      "state": "OH"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1836764348"
+  },
+  {
+    "memberId": "PORTAL-100366",
+    "name": {
+      "first": "Elizabeth",
+      "last": "Johnson"
+    },
+    "dateOfBirth": "2005-07-05",
+    "sex": "Male",
+    "address": {
+      "line1": "4784 Main St",
+      "city": "Springfield",
+      "state": "IL"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1448553961"
+  },
+  {
+    "memberId": "PORTAL-100438",
+    "name": {
+      "first": "John",
+      "last": "Brown"
+    },
+    "dateOfBirth": "2011-04-15",
+    "sex": "Female",
+    "address": {
+      "line1": "6904 Main St",
+      "city": "Georgetown",
+      "state": "OH"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1629466430"
+  },
+  {
+    "memberId": "PORTAL-100350",
+    "name": {
+      "first": "Fatima",
+      "last": "Jones"
+    },
+    "dateOfBirth": "1965-09-07",
+    "sex": "Female",
+    "address": {
+      "line1": "753 Main St",
+      "city": "Fairview",
+      "state": "TX"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": null
+  },
+  {
+    "memberId": "PORTAL-100240",
+    "name": {
+      "first": "Elizabeth",
+      "last": "Smith"
+    },
+    "dateOfBirth": "1936-03-03",
+    "sex": "Male",
+    "address": {
+      "line1": "5659 Main St",
+      "city": "Clinton",
+      "state": "MI"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1297826757"
+  },
+  {
+    "memberId": "PORTAL-100453",
+    "name": {
+      "first": "Fatima",
+      "last": "Nguyen"
+    },
+    "dateOfBirth": "1996-11-25",
+    "sex": "Female",
+    "address": {
+      "line1": "4296 Main St",
+      "city": "Riverside",
+      "state": "CA"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": null
+  },
+  {
+    "memberId": "PORTAL-000107",
+    "name": {
+      "first": "Wei",
+      "last": "Silva"
+    },
+    "dateOfBirth": "2002-04-29",
+    "sex": "Female",
+    "address": {
+      "line1": "2794 Main St",
+      "city": "Clinton",
+      "state": "MI"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1795937185"
+  },
+  {
+    "memberId": "PORTAL-100462",
+    "name": {
+      "first": "Barbara",
+      "last": "Clark"
+    },
+    "dateOfBirth": "1944-10-17",
+    "sex": "Female",
+    "address": {
+      "line1": "5967 Main St",
+      "city": "Clinton",
+      "state": "MI"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1342810011"
+  },
+  {
+    "memberId": "PORTAL-100189",
+    "name": {
+      "first": "John",
+      "last": "Brown"
+    },
+    "dateOfBirth": "1961-03-12",
+    "sex": "Male",
+    "address": {
+      "line1": "2102 Main St",
+      "city": "Fairview",
+      "state": "TX"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1909739416"
+  },
+  {
+    "memberId": "PORTAL-000149",
+    "name": {
+      "first": "John",
+      "last": "Patel"
+    },
+    "dateOfBirth": "2005-04-25",
+    "sex": "Female",
+    "address": {
+      "line1": "4128 Main St",
+      "city": "Springfield",
+      "state": "IL"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1451886246"
+  },
+  {
+    "memberId": "PORTAL-100412",
+    "name": {
+      "first": "Fatima",
+      "last": "Williams"
+    },
+    "dateOfBirth": "1936-02-12",
+    "sex": "Male",
+    "address": {
+      "line1": "696 Main St",
+      "city": "Clinton",
+      "state": "MI"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1751636322"
+  },
+  {
+    "memberId": "PORTAL-000064",
+    "name": {
+      "first": "Elizabeth",
+      "last": "Patel"
+    },
+    "dateOfBirth": "1963-02-03",
+    "sex": "Female",
+    "address": {
+      "line1": "8164 Main St",
+      "city": "Clinton",
+      "state": "MI"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1542910686"
+  },
+  {
+    "memberId": "PORTAL-100213",
+    "name": {
+      "first": "Michael",
+      "last": "Garcia"
+    },
+    "dateOfBirth": "1983-09-13",
+    "sex": "Female",
+    "address": {
+      "line1": "7760 Main St",
+      "city": "Riverside",
+      "state": "CA"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1194275879"
+  },
+  {
+    "memberId": "PORTAL-100316",
+    "name": {
+      "first": "Patricia",
+      "last": "Nguyen"
+    },
+    "dateOfBirth": "1970-09-30",
+    "sex": "Male",
+    "address": {
+      "line1": "2624 Main St",
+      "city": "Springfield",
+      "state": "IL"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1287202866"
+  },
+  {
+    "memberId": "PORTAL-100308",
+    "name": {
+      "first": "Barbara",
+      "last": "Davis"
+    },
+    "dateOfBirth": "1993-09-18",
+    "sex": "Female",
+    "address": {
+      "line1": "9857 Main St",
+      "city": "Georgetown",
+      "state": "OH"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1003893448"
+  },
+  {
+    "memberId": "PORTAL-100295",
+    "name": {
+      "first": "Noah",
+      "last": "Williams"
+    },
+    "dateOfBirth": "1981-03-09",
+    "sex": "Female",
+    "address": {
+      "line1": "9891 Main St",
+      "city": "Riverside",
+      "state": "CA"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": null
+  },
+  {
+    "memberId": "PORTAL-100357",
+    "name": {
+      "first": "Noah",
+      "last": "Anderson"
+    },
+    "dateOfBirth": "1982-04-13",
+    "sex": "Male",
+    "address": {
+      "line1": "6727 Main St",
+      "city": "Franklin",
+      "state": "NC"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1173952967"
+  },
+  {
+    "memberId": "PORTAL-100238",
+    "name": {
+      "first": "Emma",
+      "last": "Chen"
+    },
+    "dateOfBirth": "1998-01-30",
+    "sex": "Female",
+    "address": {
+      "line1": "3360 Main St",
+      "city": "Fairview",
+      "state": "TX"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1774273164"
+  },
+  {
+    "memberId": "PORTAL-100269",
+    "name": {
+      "first": "Fatima",
+      "last": "Clark"
+    },
+    "dateOfBirth": "1975-10-14",
+    "sex": "Male",
+    "address": {
+      "line1": "7912 Main St",
+      "city": "Franklin",
+      "state": "NC"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1935609788"
+  },
+  {
+    "memberId": "PORTAL-000110",
+    "name": {
+      "first": "Robert",
+      "last": "Khan"
+    },
+    "dateOfBirth": "2008-12-02",
+    "sex": "Male",
+    "address": {
+      "line1": "1042 Main St",
+      "city": "Franklin",
+      "state": "NC"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1500937412"
+  },
+  {
+    "memberId": "PORTAL-000076",
+    "name": {
+      "first": "Anita",
+      "last": "Jones"
+    },
+    "dateOfBirth": "1969-07-08",
+    "sex": "Female",
+    "address": {
+      "line1": "3931 Main St",
+      "city": "Georgetown",
+      "state": "OH"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1525302782"
+  },
+  {
+    "memberId": "PORTAL-100329",
+    "name": {
+      "first": "Anita",
+      "last": "Clark"
+    },
+    "dateOfBirth": "2026-08-08",
+    "sex": "Male",
+    "address": {
+      "line1": "9230 Main St",
+      "city": "Fairview",
+      "state": "TX"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1759087377"
+  },
+  {
+    "memberId": "PORTAL-000077",
+    "name": {
+      "first": "Wei",
+      "last": "Jones"
+    },
+    "dateOfBirth": "1992-01-19",
+    "sex": "Female",
+    "address": {
+      "line1": "8512 Main St",
+      "city": "Fairview",
+      "state": "TX"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1387414356"
+  },
+  {
+    "memberId": "PORTAL-100300",
+    "name": {
+      "first": "Patricia",
+      "last": "Khan"
+    },
+    "dateOfBirth": "1982-02-12",
+    "sex": "Male",
+    "address": {
+      "line1": "5042 Main St",
+      "city": "Fairview",
+      "state": "TX"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1272764463"
+  },
+  {
+    "memberId": "PORTAL-000014",
+    "name": {
+      "first": "Michael",
+      "last": "Johnson"
+    },
+    "dateOfBirth": "2003-04-02",
+    "sex": "Male",
+    "address": {
+      "line1": "4506 Main St",
+      "city": "Springfield",
+      "state": "IL"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1419314170"
+  },
+  {
+    "memberId": "PORTAL-000041",
+    "name": {
+      "first": "Mary",
+      "last": "Kim"
+    },
+    "dateOfBirth": "1960-06-09",
+    "sex": "Female",
+    "address": {
+      "line1": "5117 Main St",
+      "city": "Franklin",
+      "state": "NC"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1936657872"
+  },
+  {
+    "memberId": "PORTAL-000166",
+    "name": {
+      "first": "Liam",
+      "last": "Miller"
+    },
+    "dateOfBirth": "2016-08-03",
+    "sex": "Male",
+    "address": {
+      "line1": "564 Main St",
+      "city": "Georgetown",
+      "state": "OH"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1272795430"
+  },
+  {
+    "memberId": "PORTAL-100190",
+    "name": {
+      "first": "Robert",
+      "last": "Silva"
+    },
+    "dateOfBirth": "2021-06-13",
+    "sex": "Female",
+    "address": {
+      "line1": "2173 Main St",
+      "city": "Fairview",
+      "state": "TX"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1162473673"
+  },
+  {
+    "memberId": "PORTAL-100474",
+    "name": {
+      "first": "Patricia",
+      "last": "Chen"
+    },
+    "dateOfBirth": "1968-05-29",
+    "sex": "Male",
+    "address": {
+      "line1": "7454 Main St",
+      "city": "Clinton",
+      "state": "MI"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1673954540"
+  },
+  {
+    "memberId": "PORTAL-000042",
+    "name": {
+      "first": "James",
+      "last": "Smith"
+    },
+    "dateOfBirth": "1946-12-25",
+    "sex": "Female",
+    "address": {
+      "line1": "8458 Main St",
+      "city": "Franklin",
+      "state": "NC"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1215810862"
+  },
+  {
+    "memberId": "PORTAL-000016",
+    "name": {
+      "first": "Anita",
+      "last": "Smith"
+    },
+    "dateOfBirth": "1994-08-02",
+    "sex": "Male",
+    "address": {
+      "line1": "3625 Main St",
+      "city": "Clinton",
+      "state": "MI"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1265020146"
+  },
+  {
+    "memberId": "PORTAL-000145",
+    "name": {
+      "first": "Emma",
+      "last": "Garcia"
+    },
+    "dateOfBirth": "2025-03-03",
+    "sex": "Female",
+    "address": {
+      "line1": "1195 Main St",
+      "city": "Clinton",
+      "state": "MI"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1707851913"
+  },
+  {
+    "memberId": "PORTAL-100443",
+    "name": {
+      "first": "Anita",
+      "last": "Clark"
+    },
+    "dateOfBirth": "1955-06-06",
+    "sex": "Female",
+    "address": {
+      "line1": "348 Main St",
+      "city": "Springfield",
+      "state": "IL"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1937691844"
+  },
+  {
+    "memberId": "PORTAL-100184",
+    "name": {
+      "first": "David",
+      "last": "Chen"
+    },
+    "dateOfBirth": "1959-07-22",
+    "sex": "Male",
+    "address": {
+      "line1": "9617 Main St",
+      "city": "Springfield",
+      "state": "IL"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1532579221"
+  },
+  {
+    "memberId": "PORTAL-000178",
+    "name": {
+      "first": "Mary",
+      "last": "Nguyen"
+    },
+    "dateOfBirth": "2013-08-07",
+    "sex": "Female",
+    "address": {
+      "line1": "6154 Main St",
+      "city": "Franklin",
+      "state": "NC"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": null
+  },
+  {
+    "memberId": "PORTAL-000158",
+    "name": {
+      "first": "Emma",
+      "last": "Brown"
+    },
+    "dateOfBirth": "1975-02-07",
+    "sex": "Female",
+    "address": {
+      "line1": "5698 Main St",
+      "city": "Fairview",
+      "state": "TX"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1624318073"
+  },
+  {
+    "memberId": "PORTAL-000030",
+    "name": {
+      "first": "Liam",
+      "last": "Garcia"
+    },
+    "dateOfBirth": "1997-12-14",
+    "sex": "Female",
+    "address": {
+      "line1": "3588 Main St",
+      "city": "Springfield",
+      "state": "IL"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": null
+  },
+  {
+    "memberId": "PORTAL-000176",
+    "name": {
+      "first": "Robert",
+      "last": "Silva"
+    },
+    "dateOfBirth": "1978-12-06",
+    "sex": "Female",
+    "address": {
+      "line1": "6867 Main St",
+      "city": "Georgetown",
+      "state": "OH"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1952302949"
+  },
+  {
+    "memberId": "PORTAL-000144",
+    "name": {
+      "first": "Linda",
+      "last": "Jones"
+    },
+    "dateOfBirth": "1993-08-05",
+    "sex": "Female",
+    "address": {
+      "line1": "1296 Main St",
+      "city": "Fairview",
+      "state": "TX"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1103924517"
+  },
+  {
+    "memberId": "PORTAL-000102",
+    "name": {
+      "first": "Mary",
+      "last": "Clark"
+    },
+    "dateOfBirth": "1993-05-23",
+    "sex": "Male",
+    "address": {
+      "line1": "8069 Main St",
+      "city": "Fairview",
+      "state": "TX"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1308725422"
+  },
+  {
+    "memberId": "PORTAL-100257",
+    "name": {
+      "first": "David",
+      "last": "Khan"
+    },
+    "dateOfBirth": "2006-07-02",
+    "sex": "Male",
+    "address": {
+      "line1": "9953 Main St",
+      "city": "Franklin",
+      "state": "NC"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1399015263"
+  },
+  {
+    "memberId": "PORTAL-100389",
+    "name": {
+      "first": "Barbara",
+      "last": "Garcia"
+    },
+    "dateOfBirth": "1976-09-22",
+    "sex": "Male",
+    "address": {
+      "line1": "3051 Main St",
+      "city": "Georgetown",
+      "state": "OH"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1510838545"
+  },
+  {
+    "memberId": "PORTAL-000015",
+    "name": {
+      "first": "Sara",
+      "last": "Clark"
+    },
+    "dateOfBirth": "1973-04-10",
+    "sex": "Male",
+    "address": {
+      "line1": "925 Main St",
+      "city": "Georgetown",
+      "state": "OH"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1448347824"
+  },
+  {
+    "memberId": "PORTAL-000078",
+    "name": {
+      "first": "Michael",
+      "last": "Davis"
+    },
+    "dateOfBirth": "1996-07-01",
+    "sex": "Female",
+    "address": {
+      "line1": "362 Main St",
+      "city": "Fairview",
+      "state": "TX"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1582708425"
+  },
+  {
+    "memberId": "PORTAL-100312",
+    "name": {
+      "first": "Priya",
+      "last": "Miller"
+    },
+    "dateOfBirth": "1973-08-27",
+    "sex": "Female",
+    "address": {
+      "line1": "6658 Main St",
+      "city": "Georgetown",
+      "state": "OH"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1201554656"
+  },
+  {
+    "memberId": "PORTAL-100309",
+    "name": {
+      "first": "Linda",
+      "last": "Anderson"
+    },
+    "dateOfBirth": "2004-01-20",
+    "sex": "Male",
+    "address": {
+      "line1": "3889 Main St",
+      "city": "Fairview",
+      "state": "TX"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1145922693"
+  },
+  {
+    "memberId": "PORTAL-100223",
+    "name": {
+      "first": "David",
+      "last": "Anderson"
+    },
+    "dateOfBirth": "2020-03-05",
+    "sex": "Male",
+    "address": {
+      "line1": "8065 Main St",
+      "city": "Springfield",
+      "state": "IL"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1260043997"
+  },
+  {
+    "memberId": "PORTAL-100398",
+    "name": {
+      "first": "Patricia",
+      "last": "Brown"
+    },
+    "dateOfBirth": "1939-07-29",
+    "sex": "Female",
+    "address": {
+      "line1": "9854 Main St",
+      "city": "Franklin",
+      "state": "NC"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": null
+  },
+  {
+    "memberId": "PORTAL-100455",
+    "name": {
+      "first": "Anita",
+      "last": "Kim"
+    },
+    "dateOfBirth": "2007-06-17",
+    "sex": "Male",
+    "address": {
+      "line1": "5273 Main St",
+      "city": "Franklin",
+      "state": "NC"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1604486057"
+  },
+  {
+    "memberId": "PORTAL-100340",
+    "name": {
+      "first": "Elizabeth",
+      "last": "Garcia"
+    },
+    "dateOfBirth": "1944-02-02",
+    "sex": "Female",
+    "address": {
+      "line1": "7183 Main St",
+      "city": "Fairview",
+      "state": "TX"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1789113300"
+  },
+  {
+    "memberId": "PORTAL-100274",
+    "name": {
+      "first": "Liam",
+      "last": "Johnson"
+    },
+    "dateOfBirth": "1994-09-01",
+    "sex": "Male",
+    "address": {
+      "line1": "5238 Main St",
+      "city": "Georgetown",
+      "state": "OH"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": null
+  },
+  {
+    "memberId": "PORTAL-100182",
+    "name": {
+      "first": "Fatima",
+      "last": "Smith"
+    },
+    "dateOfBirth": "1970-03-28",
+    "sex": "Female",
+    "address": {
+      "line1": "5835 Main St",
+      "city": "Fairview",
+      "state": "TX"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1447204962"
+  },
+  {
+    "memberId": "PORTAL-100416",
+    "name": {
+      "first": "John",
+      "last": "Jones"
+    },
+    "dateOfBirth": "2023-11-16",
+    "sex": "Male",
+    "address": {
+      "line1": "6335 Main St",
+      "city": "Franklin",
+      "state": "NC"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1028580560"
+  },
+  {
+    "memberId": "PORTAL-100253",
+    "name": {
+      "first": "David",
+      "last": "Silva"
+    },
+    "dateOfBirth": "1998-03-27",
+    "sex": "Male",
+    "address": {
+      "line1": "9867 Main St",
+      "city": "Franklin",
+      "state": "NC"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1733373845"
+  },
+  {
+    "memberId": "PORTAL-100440",
+    "name": {
+      "first": "Elizabeth",
+      "last": "Nguyen"
+    },
+    "dateOfBirth": "2021-01-05",
+    "sex": "Female",
+    "address": {
+      "line1": "7563 Main St",
+      "city": "Georgetown",
+      "state": "OH"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1277908770"
+  },
+  {
+    "memberId": "PORTAL-100344",
+    "name": {
+      "first": "Mary",
+      "last": "Davis"
+    },
+    "dateOfBirth": "1952-10-02",
+    "sex": "Male",
+    "address": {
+      "line1": "5196 Main St",
+      "city": "Fairview",
+      "state": "TX"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1693512544"
+  },
+  {
+    "memberId": "PORTAL-000054",
+    "name": {
+      "first": "Robert",
+      "last": "Nguyen"
+    },
+    "dateOfBirth": "1944-08-20",
+    "sex": "Female",
+    "address": {
+      "line1": "5452 Main St",
+      "city": "Franklin",
+      "state": "NC"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1785277493"
+  },
+  {
+    "memberId": "PORTAL-000162",
+    "name": {
+      "first": "Patricia",
+      "last": "Jones"
+    },
+    "dateOfBirth": "2001-01-05",
+    "sex": "Female",
+    "address": {
+      "line1": "8258 Main St",
+      "city": "Springfield",
+      "state": "IL"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1330693031"
+  },
+  {
+    "memberId": "PORTAL-100304",
+    "name": {
+      "first": "Priya",
+      "last": "Chen"
+    },
+    "dateOfBirth": "1955-02-16",
+    "sex": "Female",
+    "address": {
+      "line1": "2521 Main St",
+      "city": "Fairview",
+      "state": "TX"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1507787301"
+  },
+  {
+    "memberId": "PORTAL-000147",
+    "name": {
+      "first": "Barbara",
+      "last": "Silva"
+    },
+    "dateOfBirth": "1952-09-14",
+    "sex": "Male",
+    "address": {
+      "line1": "367 Main St",
+      "city": "Franklin",
+      "state": "NC"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1766947258"
+  },
+  {
+    "memberId": "PORTAL-000165",
+    "name": {
+      "first": "Patricia",
+      "last": "Williams"
+    },
+    "dateOfBirth": "1979-04-06",
+    "sex": "Female",
+    "address": {
+      "line1": "6413 Main St",
+      "city": "Franklin",
+      "state": "NC"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": null
+  },
+  {
+    "memberId": "PORTAL-000047",
+    "name": {
+      "first": "Michael",
+      "last": "Kim"
+    },
+    "dateOfBirth": "1993-08-15",
+    "sex": "Male",
+    "address": {
+      "line1": "513 Main St",
+      "city": "Franklin",
+      "state": "NC"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1201098326"
+  },
+  {
+    "memberId": "PORTAL-100346",
+    "name": {
+      "first": "Fatima",
+      "last": "Anderson"
+    },
+    "dateOfBirth": "1971-06-24",
+    "sex": "Female",
+    "address": {
+      "line1": "8465 Main St",
+      "city": "Georgetown",
+      "state": "OH"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": null
+  },
+  {
+    "memberId": "PORTAL-100472",
+    "name": {
+      "first": "John",
+      "last": "Patel"
+    },
+    "dateOfBirth": "1986-04-10",
+    "sex": "Male",
+    "address": {
+      "line1": "1790 Main St",
+      "city": "Clinton",
+      "state": "MI"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1503882537"
+  },
+  {
+    "memberId": "PORTAL-100203",
+    "name": {
+      "first": "Patricia",
+      "last": "Kim"
+    },
+    "dateOfBirth": "1969-06-02",
+    "sex": "Female",
+    "address": {
+      "line1": "1617 Main St",
+      "city": "Clinton",
+      "state": "MI"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1092642899"
+  },
+  {
+    "memberId": "PORTAL-100395",
+    "name": {
+      "first": "Priya",
+      "last": "Silva"
+    },
+    "dateOfBirth": "2025-05-05",
+    "sex": "Male",
+    "address": {
+      "line1": "9647 Main St",
+      "city": "Fairview",
+      "state": "TX"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1708235725"
+  },
+  {
+    "memberId": "PORTAL-100228",
+    "name": {
+      "first": "Fatima",
+      "last": "Martinez"
+    },
+    "dateOfBirth": "2013-07-16",
+    "sex": "Male",
+    "address": {
+      "line1": "7441 Main St",
+      "city": "Riverside",
+      "state": "CA"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1038482387"
+  },
+  {
+    "memberId": "PORTAL-000124",
+    "name": {
+      "first": "Carlos",
+      "last": "Miller"
+    },
+    "dateOfBirth": "1954-06-11",
+    "sex": "Female",
+    "address": {
+      "line1": "9590 Main St",
+      "city": "Fairview",
+      "state": "TX"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1350726240"
+  },
+  {
+    "memberId": "PORTAL-000007",
+    "name": {
+      "first": "Anita",
+      "last": "Davis"
+    },
+    "dateOfBirth": "1957-11-25",
+    "sex": "Female",
+    "address": {
+      "line1": "3272 Main St",
+      "city": "Georgetown",
+      "state": "OH"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1575513137"
+  },
+  {
+    "memberId": "PORTAL-100399",
+    "name": {
+      "first": "Sara",
+      "last": "Davis"
+    },
+    "dateOfBirth": "1949-07-19",
+    "sex": "Male",
+    "address": {
+      "line1": "6518 Main St",
+      "city": "Franklin",
+      "state": "NC"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1964443903"
+  },
+  {
+    "memberId": "PORTAL-100406",
+    "name": {
+      "first": "Robert",
+      "last": "Smith"
+    },
+    "dateOfBirth": "1948-06-03",
+    "sex": "Male",
+    "address": {
+      "line1": "333 Main St",
+      "city": "Franklin",
+      "state": "NC"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1927020442"
+  },
+  {
+    "memberId": "PORTAL-100181",
+    "name": {
+      "first": "Linda",
+      "last": "Anderson"
+    },
+    "dateOfBirth": "1941-02-10",
+    "sex": "Female",
+    "address": {
+      "line1": "8420 Main St",
+      "city": "Franklin",
+      "state": "NC"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1472541892"
+  },
+  {
+    "memberId": "PORTAL-100384",
+    "name": {
+      "first": "Liam",
+      "last": "Kim"
+    },
+    "dateOfBirth": "2006-09-25",
+    "sex": "Male",
+    "address": {
+      "line1": "8214 Main St",
+      "city": "Springfield",
+      "state": "IL"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1498520818"
+  },
+  {
+    "memberId": "PORTAL-000152",
+    "name": {
+      "first": "Sara",
+      "last": "Garcia"
+    },
+    "dateOfBirth": "1952-12-20",
+    "sex": "Male",
+    "address": {
+      "line1": "6000 Main St",
+      "city": "Riverside",
+      "state": "CA"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1473957614"
+  },
+  {
+    "memberId": "PORTAL-100272",
+    "name": {
+      "first": "Noah",
+      "last": "Anderson"
+    },
+    "dateOfBirth": "1950-03-29",
+    "sex": "Male",
+    "address": {
+      "line1": "5597 Main St",
+      "city": "Springfield",
+      "state": "IL"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1551274225"
+  },
+  {
+    "memberId": "PORTAL-100375",
+    "name": {
+      "first": "Barbara",
+      "last": "Jones"
+    },
+    "dateOfBirth": "1971-10-12",
+    "sex": "Male",
+    "address": {
+      "line1": "7096 Main St",
+      "city": "Fairview",
+      "state": "TX"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1534883194"
+  },
+  {
+    "memberId": "PORTAL-100265",
+    "name": {
+      "first": "Mary",
+      "last": "Martinez"
+    },
+    "dateOfBirth": "1964-11-09",
+    "sex": "Female",
+    "address": {
+      "line1": "9026 Main St",
+      "city": "Fairview",
+      "state": "TX"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1306125260"
+  },
+  {
+    "memberId": "PORTAL-100323",
+    "name": {
+      "first": "Priya",
+      "last": "Jones"
+    },
+    "dateOfBirth": "1994-10-20",
+    "sex": "Female",
+    "address": {
+      "line1": "3040 Main St",
+      "city": "Franklin",
+      "state": "NC"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1585696549"
+  },
+  {
+    "memberId": "PORTAL-100270",
+    "name": {
+      "first": "Priya",
+      "last": "Smith"
+    },
+    "dateOfBirth": "2012-10-02",
+    "sex": "Female",
+    "address": {
+      "line1": "4879 Main St",
+      "city": "Clinton",
+      "state": "MI"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1061653521"
+  },
+  {
+    "memberId": "PORTAL-100332",
+    "name": {
+      "first": "Kevin",
+      "last": "Williams"
+    },
+    "dateOfBirth": "1972-02-27",
+    "sex": "Female",
+    "address": {
+      "line1": "8564 Main St",
+      "city": "Fairview",
+      "state": "TX"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1025444158"
+  },
+  {
+    "memberId": "PORTAL-000061",
+    "name": {
+      "first": "Anita",
+      "last": "Smith"
+    },
+    "dateOfBirth": "1942-08-28",
+    "sex": "Male",
+    "address": {
+      "line1": "2851 Main St",
+      "city": "Franklin",
+      "state": "NC"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1918437381"
+  },
+  {
+    "memberId": "PORTAL-100266",
+    "name": {
+      "first": "Kevin",
+      "last": "Williams"
+    },
+    "dateOfBirth": "1968-12-11",
+    "sex": "Male",
+    "address": {
+      "line1": "1392 Main St",
+      "city": "Clinton",
+      "state": "MI"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": null
+  },
+  {
+    "memberId": "PORTAL-100354",
+    "name": {
+      "first": "Liam",
+      "last": "Garcia"
+    },
+    "dateOfBirth": "1995-06-14",
+    "sex": "Female",
+    "address": {
+      "line1": "3500 Main St",
+      "city": "Georgetown",
+      "state": "OH"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1516213737"
+  },
+  {
+    "memberId": "PORTAL-100263",
+    "name": {
+      "first": "Patricia",
+      "last": "Chen"
+    },
+    "dateOfBirth": "1978-01-24",
+    "sex": "Male",
+    "address": {
+      "line1": "7117 Main St",
+      "city": "Clinton",
+      "state": "MI"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1698595004"
+  },
+  {
+    "memberId": "PORTAL-000075",
+    "name": {
+      "first": "Mary",
+      "last": "Brown"
+    },
+    "dateOfBirth": "2008-03-07",
+    "sex": "Male",
+    "address": {
+      "line1": "2861 Main St",
+      "city": "Riverside",
+      "state": "CA"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1207302319"
+  },
+  {
+    "memberId": "PORTAL-100197",
+    "name": {
+      "first": "James",
+      "last": "Smith"
+    },
+    "dateOfBirth": "1956-05-04",
+    "sex": "Male",
+    "address": {
+      "line1": "4741 Main St",
+      "city": "Springfield",
+      "state": "IL"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1299132233"
+  },
+  {
+    "memberId": "PORTAL-100449",
+    "name": {
+      "first": "Liam",
+      "last": "Miller"
+    },
+    "dateOfBirth": "1952-01-05",
+    "sex": "Female",
+    "address": {
+      "line1": "3710 Main St",
+      "city": "Fairview",
+      "state": "TX"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1258641481"
+  },
+  {
+    "memberId": "PORTAL-100239",
+    "name": {
+      "first": "Priya",
+      "last": "Patel"
+    },
+    "dateOfBirth": "1978-08-29",
+    "sex": "Male",
+    "address": {
+      "line1": "8809 Main St",
+      "city": "Clinton",
+      "state": "MI"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1584502047"
+  },
+  {
+    "memberId": "PORTAL-900000",
+    "name": {
+      "first": "Anita",
+      "last": ""
+    },
+    "dateOfBirth": "1987-01-24",
+    "sex": "Male",
+    "address": {
+      "line1": "3244 Main St",
+      "city": "Riverside",
+      "state": "CA"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1620626780"
+  },
+  {
+    "memberId": "PORTAL-100460",
+    "name": {
+      "first": "James",
+      "last": "Jones"
+    },
+    "dateOfBirth": "1945-12-08",
+    "sex": "Male",
+    "address": {
+      "line1": "617 Main St",
+      "city": "Springfield",
+      "state": "IL"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1345100026"
+  },
+  {
+    "memberId": "PORTAL-100271",
+    "name": {
+      "first": "Michael",
+      "last": "Chen"
+    },
+    "dateOfBirth": "1981-11-30",
+    "sex": "Male",
+    "address": {
+      "line1": "9396 Main St",
+      "city": "Georgetown",
+      "state": "OH"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1726090462"
+  },
+  {
+    "memberId": "PORTAL-100432",
+    "name": {
+      "first": "Patricia",
+      "last": "Patel"
+    },
+    "dateOfBirth": "2001-07-16",
+    "sex": "Male",
+    "address": {
+      "line1": "1135 Main St",
+      "city": "Georgetown",
+      "state": "OH"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1797952540"
+  },
+  {
+    "memberId": "PORTAL-100402",
+    "name": {
+      "first": "Barbara",
+      "last": "Johnson"
+    },
+    "dateOfBirth": "2004-04-25",
+    "sex": "Female",
+    "address": {
+      "line1": "894 Main St",
+      "city": "Georgetown",
+      "state": "OH"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1741622888"
+  },
+  {
+    "memberId": "PORTAL-100429",
+    "name": {
+      "first": "James",
+      "last": "Rodriguez"
+    },
+    "dateOfBirth": "1943-04-05",
+    "sex": "Male",
+    "address": {
+      "line1": "653 Main St",
+      "city": "Springfield",
+      "state": "IL"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1269446769"
+  },
+  {
+    "memberId": "PORTAL-000071",
+    "name": {
+      "first": "Noah",
+      "last": "Silva"
+    },
+    "dateOfBirth": "1978-05-14",
+    "sex": "Male",
+    "address": {
+      "line1": "3915 Main St",
+      "city": "Springfield",
+      "state": "IL"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1485789333"
+  },
+  {
+    "memberId": "PORTAL-100279",
+    "name": {
+      "first": "John",
+      "last": "Williams"
+    },
+    "dateOfBirth": "1975-07-15",
+    "sex": "Male",
+    "address": {
+      "line1": "3837 Main St",
+      "city": "Springfield",
+      "state": "IL"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1020943476"
+  },
+  {
+    "memberId": "PORTAL-100378",
+    "name": {
+      "first": "Patricia",
+      "last": "Chen"
+    },
+    "dateOfBirth": "1967-01-04",
+    "sex": "Female",
+    "address": {
+      "line1": "8963 Main St",
+      "city": "Georgetown",
+      "state": "OH"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1016736632"
+  },
+  {
+    "memberId": "PORTAL-100317",
+    "name": {
+      "first": "Priya",
+      "last": "Chen"
+    },
+    "dateOfBirth": "2014-05-21",
+    "sex": "Female",
+    "address": {
+      "line1": "3640 Main St",
+      "city": "Clinton",
+      "state": "MI"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1026244380"
+  },
+  {
+    "memberId": "PORTAL-100241",
+    "name": {
+      "first": "Emma",
+      "last": "Silva"
+    },
+    "dateOfBirth": "1940-01-01",
+    "sex": "Female",
+    "address": {
+      "line1": "3547 Main St",
+      "city": "Franklin",
+      "state": "NC"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1601656990"
+  },
+  {
+    "memberId": "PORTAL-100301",
+    "name": {
+      "first": "David",
+      "last": "Martinez"
+    },
+    "dateOfBirth": "1972-10-09",
+    "sex": "Male",
+    "address": {
+      "line1": "4586 Main St",
+      "city": "Georgetown",
+      "state": "OH"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1735542707"
+  },
+  {
+    "memberId": "PORTAL-100217",
+    "name": {
+      "first": "James",
+      "last": "Patel"
+    },
+    "dateOfBirth": "1973-12-01",
+    "sex": "Female",
+    "address": {
+      "line1": "3254 Main St",
+      "city": "Georgetown",
+      "state": "OH"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1235757163"
+  },
+  {
+    "memberId": "PORTAL-100339",
+    "name": {
+      "first": "Liam",
+      "last": "Davis"
+    },
+    "dateOfBirth": "1987-02-20",
+    "sex": "Female",
+    "address": {
+      "line1": "3888 Main St",
+      "city": "Clinton",
+      "state": "MI"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": null
+  },
+  {
+    "memberId": "PORTAL-900004",
+    "name": {
+      "first": "Barbara",
+      "last": ""
+    },
+    "dateOfBirth": "1980-09-02",
+    "sex": "Female",
+    "address": {
+      "line1": "4172 Main St",
+      "city": "Georgetown",
+      "state": "OH"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1274928859"
+  },
+  {
+    "memberId": "PORTAL-000155",
+    "name": {
+      "first": "David",
+      "last": "Chen"
+    },
+    "dateOfBirth": "1939-08-01",
+    "sex": "Female",
+    "address": {
+      "line1": "2147 Main St",
+      "city": "Franklin",
+      "state": "NC"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1642694199"
+  },
+  {
+    "memberId": "PORTAL-100243",
+    "name": {
+      "first": "Carlos",
+      "last": "Khan"
+    },
+    "dateOfBirth": "1961-02-23",
+    "sex": "Female",
+    "address": {
+      "line1": "7126 Main St",
+      "city": "Riverside",
+      "state": "CA"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1230699954"
+  },
+  {
+    "memberId": "PORTAL-100280",
+    "name": {
+      "first": "Linda",
+      "last": "Nguyen"
+    },
+    "dateOfBirth": "1950-09-03",
+    "sex": "Male",
+    "address": {
+      "line1": "5918 Main St",
+      "city": "Georgetown",
+      "state": "OH"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1364820259"
+  },
+  {
+    "memberId": "PORTAL-000068",
+    "name": {
+      "first": "James",
+      "last": "Johnson"
+    },
+    "dateOfBirth": "2024-09-13",
+    "sex": "Male",
+    "address": {
+      "line1": "1079 Main St",
+      "city": "Riverside",
+      "state": "CA"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1977221526"
+  },
+  {
+    "memberId": "PORTAL-100441",
+    "name": {
+      "first": "David",
+      "last": "Jones"
+    },
+    "dateOfBirth": "2005-12-05",
+    "sex": "Female",
+    "address": {
+      "line1": "5070 Main St",
+      "city": "Clinton",
+      "state": "MI"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1515129233"
+  },
+  {
+    "memberId": "PORTAL-000136",
+    "name": {
+      "first": "Elizabeth",
+      "last": "Davis"
+    },
+    "dateOfBirth": "1978-01-13",
+    "sex": "Female",
+    "address": {
+      "line1": "9211 Main St",
+      "city": "Clinton",
+      "state": "MI"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1508169504"
+  },
+  {
+    "memberId": "PORTAL-100275",
+    "name": {
+      "first": "Emma",
+      "last": "Williams"
+    },
+    "dateOfBirth": "1943-09-26",
+    "sex": "Female",
+    "address": {
+      "line1": "7607 Main St",
+      "city": "Georgetown",
+      "state": "OH"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1622368222"
+  },
+  {
+    "memberId": "PORTAL-100394",
+    "name": {
+      "first": "James",
+      "last": "Nguyen"
+    },
+    "dateOfBirth": "1975-09-07",
+    "sex": "Female",
+    "address": {
+      "line1": "8161 Main St",
+      "city": "Fairview",
+      "state": "TX"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1008259003"
+  },
+  {
+    "memberId": "PORTAL-100470",
+    "name": {
+      "first": "Barbara",
+      "last": "Davis"
+    },
+    "dateOfBirth": "1963-12-01",
+    "sex": "Male",
+    "address": {
+      "line1": "8130 Main St",
+      "city": "Georgetown",
+      "state": "OH"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1542625318"
+  },
+  {
+    "memberId": "PORTAL-100348",
+    "name": {
+      "first": "Anita",
+      "last": "Jones"
+    },
+    "dateOfBirth": "1980-09-20",
+    "sex": "Female",
+    "address": {
+      "line1": "2780 Main St",
+      "city": "Fairview",
+      "state": "TX"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1912833711"
+  },
+  {
+    "memberId": "PORTAL-100256",
+    "name": {
+      "first": "Carlos",
+      "last": "Khan"
+    },
+    "dateOfBirth": "1974-07-04",
+    "sex": "Female",
+    "address": {
+      "line1": "8890 Main St",
+      "city": "Fairview",
+      "state": "TX"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1147808903"
+  },
+  {
+    "memberId": "PORTAL-100364",
+    "name": {
+      "first": "John",
+      "last": "Williams"
+    },
+    "dateOfBirth": "2010-12-04",
+    "sex": "Female",
+    "address": {
+      "line1": "1276 Main St",
+      "city": "Clinton",
+      "state": "MI"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1630398604"
+  },
+  {
+    "memberId": "PORTAL-100342",
+    "name": {
+      "first": "Sara",
+      "last": "Jones"
+    },
+    "dateOfBirth": "1958-10-03",
+    "sex": "Female",
+    "address": {
+      "line1": "1497 Main St",
+      "city": "Georgetown",
+      "state": "OH"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1606346201"
+  },
+  {
+    "memberId": "PORTAL-100199",
+    "name": {
+      "first": "Robert",
+      "last": "Martinez"
+    },
+    "dateOfBirth": "2007-07-14",
+    "sex": "Male",
+    "address": {
+      "line1": "2402 Main St",
+      "city": "Clinton",
+      "state": "MI"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1410845001"
+  },
+  {
+    "memberId": "PORTAL-100405",
+    "name": {
+      "first": "John",
+      "last": "Smith"
+    },
+    "dateOfBirth": "1965-01-22",
+    "sex": "Female",
+    "address": {
+      "line1": "5036 Main St",
+      "city": "Fairview",
+      "state": "TX"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1439534112"
+  },
+  {
+    "memberId": "PORTAL-100287",
+    "name": {
+      "first": "Anita",
+      "last": "Williams"
+    },
+    "dateOfBirth": "1970-02-15",
+    "sex": "Male",
+    "address": {
+      "line1": "4474 Main St",
+      "city": "Riverside",
+      "state": "CA"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1346610213"
+  },
+  {
+    "memberId": "PORTAL-000120",
+    "name": {
+      "first": "Robert",
+      "last": "Smith"
+    },
+    "dateOfBirth": "2007-05-02",
+    "sex": "Male",
+    "address": {
+      "line1": "7924 Main St",
+      "city": "Georgetown",
+      "state": "OH"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1487845884"
+  },
+  {
+    "memberId": "PORTAL-000167",
+    "name": {
+      "first": "Priya",
+      "last": "Clark"
+    },
+    "dateOfBirth": "2024-02-20",
+    "sex": "Male",
+    "address": {
+      "line1": "5620 Main St",
+      "city": "Clinton",
+      "state": "MI"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1172380836"
+  },
+  {
+    "memberId": "PORTAL-100377",
+    "name": {
+      "first": "Robert",
+      "last": "Williams"
+    },
+    "dateOfBirth": "1991-06-15",
+    "sex": "Male",
+    "address": {
+      "line1": "8100 Main St",
+      "city": "Georgetown",
+      "state": "OH"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1878472379"
+  },
+  {
+    "memberId": "PORTAL-000119",
+    "name": {
+      "first": "Liam",
+      "last": "Chen"
+    },
+    "dateOfBirth": "2004-07-19",
+    "sex": "Female",
+    "address": {
+      "line1": "4310 Main St",
+      "city": "Riverside",
+      "state": "CA"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1059506952"
+  },
+  {
+    "memberId": "PORTAL-100422",
+    "name": {
+      "first": "Mary",
+      "last": "Khan"
+    },
+    "dateOfBirth": "1995-05-22",
+    "sex": "Male",
+    "address": {
+      "line1": "3979 Main St",
+      "city": "Fairview",
+      "state": "TX"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1746164306"
+  },
+  {
+    "memberId": "PORTAL-000111",
+    "name": {
+      "first": "Priya",
+      "last": "Williams"
+    },
+    "dateOfBirth": "1947-05-21",
+    "sex": "Male",
+    "address": {
+      "line1": "8111 Main St",
+      "city": "Clinton",
+      "state": "MI"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1515859103"
+  },
+  {
+    "memberId": "PORTAL-000034",
+    "name": {
+      "first": "Elizabeth",
+      "last": "Jones"
+    },
+    "dateOfBirth": "1949-05-03",
+    "sex": "Female",
+    "address": {
+      "line1": "5437 Main St",
+      "city": "Franklin",
+      "state": "NC"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": null
+  },
+  {
+    "memberId": "PORTAL-100338",
+    "name": {
+      "first": "Liam",
+      "last": "Chen"
+    },
+    "dateOfBirth": "1939-12-29",
+    "sex": "Female",
+    "address": {
+      "line1": "5638 Main St",
+      "city": "Fairview",
+      "state": "TX"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1788197577"
+  },
+  {
+    "memberId": "PORTAL-000039",
+    "name": {
+      "first": "Elizabeth",
+      "last": "Patel"
+    },
+    "dateOfBirth": "1973-01-24",
+    "sex": "Male",
+    "address": {
+      "line1": "7651 Main St",
+      "city": "Georgetown",
+      "state": "OH"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1082619958"
+  },
+  {
+    "memberId": "PORTAL-000151",
+    "name": {
+      "first": "Michael",
+      "last": "Jones"
+    },
+    "dateOfBirth": "2001-10-22",
+    "sex": "Male",
+    "address": {
+      "line1": "4060 Main St",
+      "city": "Clinton",
+      "state": "MI"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1068616754"
+  },
+  {
+    "memberId": "PORTAL-100187",
+    "name": {
+      "first": "Carlos",
+      "last": "Rodriguez"
+    },
+    "dateOfBirth": "1952-10-23",
+    "sex": "Female",
+    "address": {
+      "line1": "7568 Main St",
+      "city": "Georgetown",
+      "state": "OH"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1974442180"
+  },
+  {
+    "memberId": "PORTAL-100202",
+    "name": {
+      "first": "David",
+      "last": "Clark"
+    },
+    "dateOfBirth": "1963-01-29",
+    "sex": "Male",
+    "address": {
+      "line1": "6558 Main St",
+      "city": "Georgetown",
+      "state": "OH"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1437382183"
+  },
+  {
+    "memberId": "PORTAL-100268",
+    "name": {
+      "first": "Anita",
+      "last": "Williams"
+    },
+    "dateOfBirth": "2004-09-15",
+    "sex": "Female",
+    "address": {
+      "line1": "9100 Main St",
+      "city": "Fairview",
+      "state": "TX"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1503612833"
+  },
+  {
+    "memberId": "PORTAL-000046",
+    "name": {
+      "first": "Carlos",
+      "last": "Davis"
+    },
+    "dateOfBirth": "1947-10-02",
+    "sex": "Male",
+    "address": {
+      "line1": "6100 Main St",
+      "city": "Fairview",
+      "state": "TX"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1220327112"
+  },
+  {
+    "memberId": "PORTAL-100220",
+    "name": {
+      "first": "James",
+      "last": "Davis"
+    },
+    "dateOfBirth": "2015-03-10",
+    "sex": "Female",
+    "address": {
+      "line1": "3302 Main St",
+      "city": "Springfield",
+      "state": "IL"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1307632173"
+  },
+  {
+    "memberId": "PORTAL-000112",
+    "name": {
+      "first": "Michael",
+      "last": "Patel"
+    },
+    "dateOfBirth": "2001-08-28",
+    "sex": "Female",
+    "address": {
+      "line1": "9738 Main St",
+      "city": "Fairview",
+      "state": "TX"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1470052787"
+  },
+  {
+    "memberId": "PORTAL-000082",
+    "name": {
+      "first": "Barbara",
+      "last": "Garcia"
+    },
+    "dateOfBirth": "2005-06-26",
+    "sex": "Female",
+    "address": {
+      "line1": "3296 Main St",
+      "city": "Clinton",
+      "state": "MI"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1997837151"
+  },
+  {
+    "memberId": "PORTAL-100292",
+    "name": {
+      "first": "Carlos",
+      "last": "Kim"
+    },
+    "dateOfBirth": "1994-01-11",
+    "sex": "Female",
+    "address": {
+      "line1": "6716 Main St",
+      "city": "Georgetown",
+      "state": "OH"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1207777401"
+  },
+  {
+    "memberId": "PORTAL-100374",
+    "name": {
+      "first": "Elizabeth",
+      "last": "Martinez"
+    },
+    "dateOfBirth": "2010-01-06",
+    "sex": "Male",
+    "address": {
+      "line1": "3863 Main St",
+      "city": "Fairview",
+      "state": "TX"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": null
+  },
+  {
+    "memberId": "PORTAL-100235",
+    "name": {
+      "first": "Robert",
+      "last": "Johnson"
+    },
+    "dateOfBirth": "1978-10-27",
+    "sex": "Male",
+    "address": {
+      "line1": "2215 Main St",
+      "city": "Riverside",
+      "state": "CA"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1287498100"
+  },
+  {
+    "memberId": "PORTAL-100320",
+    "name": {
+      "first": "Mary",
+      "last": "Brown"
+    },
+    "dateOfBirth": "1978-01-24",
+    "sex": "Male",
+    "address": {
+      "line1": "9050 Main St",
+      "city": "Clinton",
+      "state": "MI"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1459611999"
+  },
+  {
+    "memberId": "PORTAL-100273",
+    "name": {
+      "first": "Liam",
+      "last": "Smith"
+    },
+    "dateOfBirth": "1978-09-05",
+    "sex": "Female",
+    "address": {
+      "line1": "8765 Main St",
+      "city": "Springfield",
+      "state": "IL"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1656976292"
+  },
+  {
+    "memberId": "PORTAL-100324",
+    "name": {
+      "first": "Emma",
+      "last": "Patel"
+    },
+    "dateOfBirth": "1989-12-13",
+    "sex": "Female",
+    "address": {
+      "line1": "5024 Main St",
+      "city": "Riverside",
+      "state": "CA"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1051198580"
+  },
+  {
+    "memberId": "PORTAL-000168",
+    "name": {
+      "first": "Fatima",
+      "last": "Williams"
+    },
+    "dateOfBirth": "1944-05-16",
+    "sex": "Male",
+    "address": {
+      "line1": "553 Main St",
+      "city": "Georgetown",
+      "state": "OH"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1349921916"
+  },
+  {
+    "memberId": "PORTAL-100469",
+    "name": {
+      "first": "Mary",
+      "last": "Anderson"
+    },
+    "dateOfBirth": "2009-12-02",
+    "sex": "Female",
+    "address": {
+      "line1": "250 Main St",
+      "city": "Riverside",
+      "state": "CA"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1488116953"
+  },
+  {
+    "memberId": "PORTAL-100224",
+    "name": {
+      "first": "Sara",
+      "last": "Patel"
+    },
+    "dateOfBirth": "2013-03-28",
+    "sex": "Female",
+    "address": {
+      "line1": "8906 Main St",
+      "city": "Springfield",
+      "state": "IL"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": null
+  },
+  {
+    "memberId": "PORTAL-100225",
+    "name": {
+      "first": "Fatima",
+      "last": "Davis"
+    },
+    "dateOfBirth": "2018-10-13",
+    "sex": "Female",
+    "address": {
+      "line1": "2585 Main St",
+      "city": "Fairview",
+      "state": "TX"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1477108147"
+  },
+  {
+    "memberId": "PORTAL-900001",
+    "name": {
+      "first": "Linda",
+      "last": ""
+    },
+    "dateOfBirth": "1957-07-20",
+    "sex": "Male",
+    "address": {
+      "line1": "7009 Main St",
+      "city": "Riverside",
+      "state": "CA"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1184207222"
+  },
+  {
+    "memberId": "PORTAL-100371",
+    "name": {
+      "first": "Emma",
+      "last": "Brown"
+    },
+    "dateOfBirth": "1992-02-24",
+    "sex": "Male",
+    "address": {
+      "line1": "2140 Main St",
+      "city": "Clinton",
+      "state": "MI"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1994716136"
+  },
+  {
+    "memberId": "PORTAL-100193",
+    "name": {
+      "first": "Priya",
+      "last": "Brown"
+    },
+    "dateOfBirth": "1993-01-22",
+    "sex": "Female",
+    "address": {
+      "line1": "5902 Main St",
+      "city": "Georgetown",
+      "state": "OH"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1473458852"
+  },
+  {
+    "memberId": "PORTAL-000170",
+    "name": {
+      "first": "Patricia",
+      "last": "Khan"
+    },
+    "dateOfBirth": "1983-03-11",
+    "sex": "Male",
+    "address": {
+      "line1": "4409 Main St",
+      "city": "Georgetown",
+      "state": "OH"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1710641993"
+  },
+  {
+    "memberId": "PORTAL-100219",
+    "name": {
+      "first": "Carlos",
+      "last": "Patel"
+    },
+    "dateOfBirth": "2004-06-08",
+    "sex": "Female",
+    "address": {
+      "line1": "5608 Main St",
+      "city": "Georgetown",
+      "state": "OH"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": null
+  },
+  {
+    "memberId": "PORTAL-100356",
+    "name": {
+      "first": "Kevin",
+      "last": "Kim"
+    },
+    "dateOfBirth": "1942-01-23",
+    "sex": "Female",
+    "address": {
+      "line1": "6621 Main St",
+      "city": "Riverside",
+      "state": "CA"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1277381712"
+  },
+  {
+    "memberId": "PORTAL-000028",
+    "name": {
+      "first": "Kevin",
+      "last": "Rodriguez"
+    },
+    "dateOfBirth": "1997-10-16",
+    "sex": "Male",
+    "address": {
+      "line1": "4070 Main St",
+      "city": "Clinton",
+      "state": "MI"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1830640037"
+  },
+  {
+    "memberId": "PORTAL-000146",
+    "name": {
+      "first": "Mary",
+      "last": "Patel"
+    },
+    "dateOfBirth": "1974-07-09",
+    "sex": "Female",
+    "address": {
+      "line1": "9825 Main St",
+      "city": "Clinton",
+      "state": "MI"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1114333978"
+  },
+  {
+    "memberId": "PORTAL-000092",
+    "name": {
+      "first": "Anita",
+      "last": "Williams"
+    },
+    "dateOfBirth": "1986-12-03",
+    "sex": "Male",
+    "address": {
+      "line1": "2662 Main St",
+      "city": "Riverside",
+      "state": "CA"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1838362099"
+  },
+  {
+    "memberId": "PORTAL-100291",
+    "name": {
+      "first": "Mary",
+      "last": "Kim"
+    },
+    "dateOfBirth": "1984-08-15",
+    "sex": "Female",
+    "address": {
+      "line1": "7224 Main St",
+      "city": "Clinton",
+      "state": "MI"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1053597620"
+  },
+  {
+    "memberId": "PORTAL-000177",
+    "name": {
+      "first": "Wei",
+      "last": "Silva"
+    },
+    "dateOfBirth": "1954-11-23",
+    "sex": "Female",
+    "address": {
+      "line1": "7027 Main St",
+      "city": "Fairview",
+      "state": "TX"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1764932461"
+  },
+  {
+    "memberId": "PORTAL-100226",
+    "name": {
+      "first": "Michael",
+      "last": "Chen"
+    },
+    "dateOfBirth": "1980-10-11",
+    "sex": "Female",
+    "address": {
+      "line1": "7493 Main St",
+      "city": "Georgetown",
+      "state": "OH"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1550643302"
+  },
+  {
+    "memberId": "PORTAL-100353",
+    "name": {
+      "first": "Barbara",
+      "last": "Smith"
+    },
+    "dateOfBirth": "1991-02-06",
+    "sex": "Female",
+    "address": {
+      "line1": "5538 Main St",
+      "city": "Springfield",
+      "state": "IL"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1208704156"
+  },
+  {
+    "memberId": "PORTAL-000099",
+    "name": {
+      "first": "Robert",
+      "last": "Davis"
+    },
+    "dateOfBirth": "1990-06-18",
+    "sex": "Female",
+    "address": {
+      "line1": "4630 Main St",
+      "city": "Fairview",
+      "state": "TX"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1560736512"
+  },
+  {
+    "memberId": "PORTAL-000056",
+    "name": {
+      "first": "Priya",
+      "last": "Rodriguez"
+    },
+    "dateOfBirth": "2001-06-24",
+    "sex": "Male",
+    "address": {
+      "line1": "6730 Main St",
+      "city": "Clinton",
+      "state": "MI"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1699639321"
+  },
+  {
+    "memberId": "PORTAL-100277",
+    "name": {
+      "first": "Liam",
+      "last": "Jones"
+    },
+    "dateOfBirth": "1978-03-01",
+    "sex": "Female",
+    "address": {
+      "line1": "9368 Main St",
+      "city": "Springfield",
+      "state": "IL"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1764588414"
+  },
+  {
+    "memberId": "PORTAL-100296",
+    "name": {
+      "first": "Robert",
+      "last": "Khan"
+    },
+    "dateOfBirth": "1943-08-18",
+    "sex": "Male",
+    "address": {
+      "line1": "6735 Main St",
+      "city": "Fairview",
+      "state": "TX"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1287865202"
+  },
+  {
+    "memberId": "PORTAL-100211",
+    "name": {
+      "first": "Anita",
+      "last": "Brown"
+    },
+    "dateOfBirth": "2024-06-27",
+    "sex": "Male",
+    "address": {
+      "line1": "1202 Main St",
+      "city": "Georgetown",
+      "state": "OH"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1003552010"
+  },
+  {
+    "memberId": "PORTAL-100207",
+    "name": {
+      "first": "Elizabeth",
+      "last": "Anderson"
+    },
+    "dateOfBirth": "1984-11-27",
+    "sex": "Male",
+    "address": {
+      "line1": "8619 Main St",
+      "city": "Springfield",
+      "state": "IL"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1360197509"
+  },
+  {
+    "memberId": "PORTAL-000086",
+    "name": {
+      "first": "Fatima",
+      "last": "Rodriguez"
+    },
+    "dateOfBirth": "2015-12-20",
+    "sex": "Male",
+    "address": {
+      "line1": "4823 Main St",
+      "city": "Franklin",
+      "state": "NC"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1184799363"
+  },
+  {
+    "memberId": "PORTAL-100347",
+    "name": {
+      "first": "Linda",
+      "last": "Miller"
+    },
+    "dateOfBirth": "1994-05-13",
+    "sex": "Male",
+    "address": {
+      "line1": "4915 Main St",
+      "city": "Springfield",
+      "state": "IL"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1827788253"
+  },
+  {
+    "memberId": "PORTAL-000161",
+    "name": {
+      "first": "Kevin",
+      "last": "Smith"
+    },
+    "dateOfBirth": "2025-06-29",
+    "sex": "Female",
+    "address": {
+      "line1": "5645 Main St",
+      "city": "Georgetown",
+      "state": "OH"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1773033561"
+  },
+  {
+    "memberId": "PORTAL-100381",
+    "name": {
+      "first": "Fatima",
+      "last": "Garcia"
+    },
+    "dateOfBirth": "1981-12-28",
+    "sex": "Female",
+    "address": {
+      "line1": "5598 Main St",
+      "city": "Springfield",
+      "state": "IL"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1310866929"
+  },
+  {
+    "memberId": "PORTAL-000171",
+    "name": {
+      "first": "Mary",
+      "last": "Williams"
+    },
+    "dateOfBirth": "1989-08-14",
+    "sex": "Female",
+    "address": {
+      "line1": "2816 Main St",
+      "city": "Fairview",
+      "state": "TX"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1033365374"
+  },
+  {
+    "memberId": "PORTAL-100191",
+    "name": {
+      "first": "Kevin",
+      "last": "Garcia"
+    },
+    "dateOfBirth": "2019-02-23",
+    "sex": "Male",
+    "address": {
+      "line1": "9866 Main St",
+      "city": "Franklin",
+      "state": "NC"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1884438370"
+  },
+  {
+    "memberId": "PORTAL-900002",
+    "name": {
+      "first": "Priya",
+      "last": ""
+    },
+    "dateOfBirth": "2008-08-10",
+    "sex": "Female",
+    "address": {
+      "line1": "6122 Main St",
+      "city": "Springfield",
+      "state": "IL"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1937947406"
+  },
+  {
+    "memberId": "PORTAL-100411",
+    "name": {
+      "first": "Michael",
+      "last": "Smith"
+    },
+    "dateOfBirth": "1996-12-24",
+    "sex": "Female",
+    "address": {
+      "line1": "6594 Main St",
+      "city": "Springfield",
+      "state": "IL"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1120686429"
+  },
+  {
+    "memberId": "PORTAL-100283",
+    "name": {
+      "first": "Sara",
+      "last": "Khan"
+    },
+    "dateOfBirth": "1962-01-08",
+    "sex": "Male",
+    "address": {
+      "line1": "5493 Main St",
+      "city": "Clinton",
+      "state": "MI"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1472648676"
+  },
+  {
+    "memberId": "PORTAL-100386",
+    "name": {
+      "first": "Noah",
+      "last": "Kim"
+    },
+    "dateOfBirth": "2021-04-28",
+    "sex": "Female",
+    "address": {
+      "line1": "6204 Main St",
+      "city": "Fairview",
+      "state": "TX"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1337741653"
+  },
+  {
+    "memberId": "PORTAL-100417",
+    "name": {
+      "first": "Patricia",
+      "last": "Jones"
+    },
+    "dateOfBirth": "1958-09-24",
+    "sex": "Female",
+    "address": {
+      "line1": "2774 Main St",
+      "city": "Fairview",
+      "state": "TX"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1338332833"
+  },
+  {
+    "memberId": "PORTAL-000029",
+    "name": {
+      "first": "Priya",
+      "last": "Williams"
+    },
+    "dateOfBirth": "1994-04-26",
+    "sex": "Female",
+    "address": {
+      "line1": "3383 Main St",
+      "city": "Riverside",
+      "state": "CA"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1337344197"
+  },
+  {
+    "memberId": "PORTAL-100448",
+    "name": {
+      "first": "John",
+      "last": "Chen"
+    },
+    "dateOfBirth": "1980-02-11",
+    "sex": "Female",
+    "address": {
+      "line1": "4034 Main St",
+      "city": "Riverside",
+      "state": "CA"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1437065407"
+  },
+  {
+    "memberId": "PORTAL-100363",
+    "name": {
+      "first": "Liam",
+      "last": "Khan"
+    },
+    "dateOfBirth": "1983-10-14",
+    "sex": "Male",
+    "address": {
+      "line1": "611 Main St",
+      "city": "Clinton",
+      "state": "MI"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1280155590"
+  },
+  {
+    "memberId": "PORTAL-000074",
+    "name": {
+      "first": "Carlos",
+      "last": "Williams"
+    },
+    "dateOfBirth": "1949-10-08",
+    "sex": "Female",
+    "address": {
+      "line1": "3732 Main St",
+      "city": "Clinton",
+      "state": "MI"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1450800487"
+  },
+  {
+    "memberId": "PORTAL-100372",
+    "name": {
+      "first": "Liam",
+      "last": "Clark"
+    },
+    "dateOfBirth": "1975-09-12",
+    "sex": "Male",
+    "address": {
+      "line1": "4509 Main St",
+      "city": "Clinton",
+      "state": "MI"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": null
+  },
+  {
+    "memberId": "PORTAL-000025",
+    "name": {
+      "first": "Kevin",
+      "last": "Brown"
+    },
+    "dateOfBirth": "2004-09-22",
+    "sex": "Male",
+    "address": {
+      "line1": "9207 Main St",
+      "city": "Georgetown",
+      "state": "OH"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1549306668"
+  },
+  {
+    "memberId": "PORTAL-100321",
+    "name": {
+      "first": "Kevin",
+      "last": "Rodriguez"
+    },
+    "dateOfBirth": "1956-03-26",
+    "sex": "Female",
+    "address": {
+      "line1": "9976 Main St",
+      "city": "Fairview",
+      "state": "TX"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1698550969"
+  },
+  {
+    "memberId": "PORTAL-100450",
+    "name": {
+      "first": "James",
+      "last": "Khan"
+    },
+    "dateOfBirth": "2004-10-26",
+    "sex": "Female",
+    "address": {
+      "line1": "3574 Main St",
+      "city": "Fairview",
+      "state": "TX"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1842271769"
+  },
+  {
+    "memberId": "PORTAL-100247",
+    "name": {
+      "first": "Anita",
+      "last": "Miller"
+    },
+    "dateOfBirth": "1944-02-22",
+    "sex": "Male",
+    "address": {
+      "line1": "9694 Main St",
+      "city": "Springfield",
+      "state": "IL"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1968608699"
+  },
+  {
+    "memberId": "PORTAL-100387",
+    "name": {
+      "first": "Emma",
+      "last": "Nguyen"
+    },
+    "dateOfBirth": "1971-06-16",
+    "sex": "Female",
+    "address": {
+      "line1": "479 Main St",
+      "city": "Franklin",
+      "state": "NC"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1670394603"
+  },
+  {
+    "memberId": "PORTAL-100330",
+    "name": {
+      "first": "Linda",
+      "last": "Johnson"
+    },
+    "dateOfBirth": "1966-02-20",
+    "sex": "Male",
+    "address": {
+      "line1": "3732 Main St",
+      "city": "Franklin",
+      "state": "NC"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1123578355"
+  },
+  {
+    "memberId": "PORTAL-000115",
+    "name": {
+      "first": "Mary",
+      "last": "Clark"
+    },
+    "dateOfBirth": "2014-05-05",
+    "sex": "Female",
+    "address": {
+      "line1": "6751 Main St",
+      "city": "Franklin",
+      "state": "NC"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1557853352"
+  },
+  {
+    "memberId": "PORTAL-000004",
+    "name": {
+      "first": "Kevin",
+      "last": "Clark"
+    },
+    "dateOfBirth": "1991-06-12",
+    "sex": "Female",
+    "address": {
+      "line1": "9752 Main St",
+      "city": "Riverside",
+      "state": "CA"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1026859952"
+  },
+  {
+    "memberId": "PORTAL-100315",
+    "name": {
+      "first": "Linda",
+      "last": "Garcia"
+    },
+    "dateOfBirth": "1957-01-18",
+    "sex": "Female",
+    "address": {
+      "line1": "3459 Main St",
+      "city": "Springfield",
+      "state": "IL"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1750905462"
+  },
+  {
+    "memberId": "PORTAL-100299",
+    "name": {
+      "first": "Barbara",
+      "last": "Johnson"
+    },
+    "dateOfBirth": "2010-10-22",
+    "sex": "Male",
+    "address": {
+      "line1": "4475 Main St",
+      "city": "Fairview",
+      "state": "TX"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1068349078"
+  },
+  {
+    "memberId": "PORTAL-100393",
+    "name": {
+      "first": "John",
+      "last": "Clark"
+    },
+    "dateOfBirth": "1953-12-02",
+    "sex": "Male",
+    "address": {
+      "line1": "1509 Main St",
+      "city": "Georgetown",
+      "state": "OH"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1058480547"
+  },
+  {
+    "memberId": "PORTAL-100231",
+    "name": {
+      "first": "Fatima",
+      "last": "Silva"
+    },
+    "dateOfBirth": "1978-04-08",
+    "sex": "Female",
+    "address": {
+      "line1": "6531 Main St",
+      "city": "Riverside",
+      "state": "CA"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1253812604"
+  },
+  {
+    "memberId": "PORTAL-100385",
+    "name": {
+      "first": "Carlos",
+      "last": "Anderson"
+    },
+    "dateOfBirth": "1991-01-28",
+    "sex": "Male",
+    "address": {
+      "line1": "2788 Main St",
+      "city": "Franklin",
+      "state": "NC"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1004901001"
+  },
+  {
+    "memberId": "PORTAL-100227",
+    "name": {
+      "first": "Michael",
+      "last": "Jones"
+    },
+    "dateOfBirth": "1983-12-31",
+    "sex": "Male",
+    "address": {
+      "line1": "5359 Main St",
+      "city": "Clinton",
+      "state": "MI"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1272646828"
+  },
+  {
+    "memberId": "PORTAL-000070",
+    "name": {
+      "first": "Wei",
+      "last": "Martinez"
+    },
+    "dateOfBirth": "1938-09-03",
+    "sex": "Female",
+    "address": {
+      "line1": "4827 Main St",
+      "city": "Springfield",
+      "state": "IL"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1924875818"
+  },
+  {
+    "memberId": "PORTAL-100355",
+    "name": {
+      "first": "Barbara",
+      "last": "Nguyen"
+    },
+    "dateOfBirth": "1950-02-11",
+    "sex": "Female",
+    "address": {
+      "line1": "3560 Main St",
+      "city": "Franklin",
+      "state": "NC"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1243196746"
+  },
+  {
+    "memberId": "PORTAL-000138",
+    "name": {
+      "first": "Noah",
+      "last": "Garcia"
+    },
+    "dateOfBirth": "1963-05-07",
+    "sex": "Female",
+    "address": {
+      "line1": "4320 Main St",
+      "city": "Fairview",
+      "state": "TX"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": null
+  },
+  {
+    "memberId": "PORTAL-000006",
+    "name": {
+      "first": "John",
+      "last": "Rodriguez"
+    },
+    "dateOfBirth": "1981-10-19",
+    "sex": "Female",
+    "address": {
+      "line1": "3462 Main St",
+      "city": "Springfield",
+      "state": "IL"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1808414852"
+  },
+  {
+    "memberId": "PORTAL-100284",
+    "name": {
+      "first": "Priya",
+      "last": "Williams"
+    },
+    "dateOfBirth": "1983-05-25",
+    "sex": "Female",
+    "address": {
+      "line1": "7278 Main St",
+      "city": "Clinton",
+      "state": "MI"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1030674888"
+  },
+  {
+    "memberId": "PORTAL-100194",
+    "name": {
+      "first": "Elizabeth",
+      "last": "Kim"
+    },
+    "dateOfBirth": "1960-07-03",
+    "sex": "Female",
+    "address": {
+      "line1": "2465 Main St",
+      "city": "Clinton",
+      "state": "MI"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1675576685"
+  },
+  {
+    "memberId": "PORTAL-100365",
+    "name": {
+      "first": "Barbara",
+      "last": "Rodriguez"
+    },
+    "dateOfBirth": "2009-03-21",
+    "sex": "Female",
+    "address": {
+      "line1": "7472 Main St",
+      "city": "Riverside",
+      "state": "CA"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1801562082"
+  },
+  {
+    "memberId": "PORTAL-100216",
+    "name": {
+      "first": "Kevin",
+      "last": "Jones"
+    },
+    "dateOfBirth": "1971-02-22",
+    "sex": "Male",
+    "address": {
+      "line1": "4316 Main St",
+      "city": "Franklin",
+      "state": "NC"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1350891765"
+  },
+  {
+    "memberId": "PORTAL-100392",
+    "name": {
+      "first": "Robert",
+      "last": "Nguyen"
+    },
+    "dateOfBirth": "2019-04-14",
+    "sex": "Female",
+    "address": {
+      "line1": "2921 Main St",
+      "city": "Springfield",
+      "state": "IL"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1424452795"
+  },
+  {
+    "memberId": "PORTAL-000043",
+    "name": {
+      "first": "James",
+      "last": "Williams"
+    },
+    "dateOfBirth": "1947-09-12",
+    "sex": "Male",
+    "address": {
+      "line1": "2452 Main St",
+      "city": "Riverside",
+      "state": "CA"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1739498355"
+  },
+  {
+    "memberId": "PORTAL-100419",
+    "name": {
+      "first": "Mary",
+      "last": "Chen"
+    },
+    "dateOfBirth": "2014-12-15",
+    "sex": "Male",
+    "address": {
+      "line1": "4316 Main St",
+      "city": "Fairview",
+      "state": "TX"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1394686958"
+  },
+  {
+    "memberId": "PORTAL-100367",
+    "name": {
+      "first": "Liam",
+      "last": "Smith"
+    },
+    "dateOfBirth": "2000-02-04",
+    "sex": "Female",
+    "address": {
+      "line1": "8575 Main St",
+      "city": "Fairview",
+      "state": "TX"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1319178658"
+  },
+  {
+    "memberId": "PORTAL-100325",
+    "name": {
+      "first": "James",
+      "last": "Brown"
+    },
+    "dateOfBirth": "2021-02-22",
+    "sex": "Female",
+    "address": {
+      "line1": "1532 Main St",
+      "city": "Franklin",
+      "state": "NC"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1671471009"
+  },
+  {
+    "memberId": "PORTAL-000131",
+    "name": {
+      "first": "Fatima",
+      "last": "Anderson"
+    },
+    "dateOfBirth": "1988-01-03",
+    "sex": "Male",
+    "address": {
+      "line1": "3993 Main St",
+      "city": "Clinton",
+      "state": "MI"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1564083094"
+  },
+  {
+    "memberId": "PORTAL-100382",
+    "name": {
+      "first": "Carlos",
+      "last": "Williams"
+    },
+    "dateOfBirth": "2016-06-03",
+    "sex": "Male",
+    "address": {
+      "line1": "8790 Main St",
+      "city": "Georgetown",
+      "state": "OH"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1413232739"
+  },
+  {
+    "memberId": "PORTAL-100358",
+    "name": {
+      "first": "Anita",
+      "last": "Nguyen"
+    },
+    "dateOfBirth": "1956-09-24",
+    "sex": "Female",
+    "address": {
+      "line1": "6102 Main St",
+      "city": "Clinton",
+      "state": "MI"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1966971076"
+  },
+  {
+    "memberId": "PORTAL-100461",
+    "name": {
+      "first": "Patricia",
+      "last": "Patel"
+    },
+    "dateOfBirth": "1966-01-10",
+    "sex": "Female",
+    "address": {
+      "line1": "2767 Main St",
+      "city": "Springfield",
+      "state": "IL"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1681096247"
+  },
+  {
+    "memberId": "PORTAL-000113",
+    "name": {
+      "first": "Mary",
+      "last": "Johnson"
+    },
+    "dateOfBirth": "2017-05-13",
+    "sex": "Female",
+    "address": {
+      "line1": "815 Main St",
+      "city": "Franklin",
+      "state": "NC"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1575976550"
+  },
+  {
+    "memberId": "PORTAL-100204",
+    "name": {
+      "first": "Liam",
+      "last": "Jones"
+    },
+    "dateOfBirth": "2007-10-24",
+    "sex": "Male",
+    "address": {
+      "line1": "1592 Main St",
+      "city": "Fairview",
+      "state": "TX"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1947461400"
+  },
+  {
+    "memberId": "PORTAL-000160",
+    "name": {
+      "first": "Anita",
+      "last": "Silva"
+    },
+    "dateOfBirth": "1964-07-16",
+    "sex": "Female",
+    "address": {
+      "line1": "7255 Main St",
+      "city": "Franklin",
+      "state": "NC"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1262201398"
+  },
+  {
+    "memberId": "PORTAL-000094",
+    "name": {
+      "first": "Linda",
+      "last": "Anderson"
+    },
+    "dateOfBirth": "1961-07-05",
+    "sex": "Male",
+    "address": {
+      "line1": "2875 Main St",
+      "city": "Georgetown",
+      "state": "OH"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1191537960"
+  },
+  {
+    "memberId": "PORTAL-100351",
+    "name": {
+      "first": "Wei",
+      "last": "Brown"
+    },
+    "dateOfBirth": "1951-07-17",
+    "sex": "Female",
+    "address": {
+      "line1": "4053 Main St",
+      "city": "Georgetown",
+      "state": "OH"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1546289149"
+  },
+  {
+    "memberId": "PORTAL-000024",
+    "name": {
+      "first": "Anita",
+      "last": "Nguyen"
+    },
+    "dateOfBirth": "2022-09-24",
+    "sex": "Female",
+    "address": {
+      "line1": "2897 Main St",
+      "city": "Fairview",
+      "state": "TX"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1444463478"
+  },
+  {
+    "memberId": "PORTAL-000033",
+    "name": {
+      "first": "Wei",
+      "last": "Williams"
+    },
+    "dateOfBirth": "2019-04-05",
+    "sex": "Male",
+    "address": {
+      "line1": "3931 Main St",
+      "city": "Springfield",
+      "state": "IL"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1764672720"
+  },
+  {
+    "memberId": "PORTAL-100439",
+    "name": {
+      "first": "Kevin",
+      "last": "Rodriguez"
+    },
+    "dateOfBirth": "1988-09-04",
+    "sex": "Male",
+    "address": {
+      "line1": "131 Main St",
+      "city": "Riverside",
+      "state": "CA"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1389668276"
+  },
+  {
+    "memberId": "PORTAL-100468",
+    "name": {
+      "first": "David",
+      "last": "Miller"
+    },
+    "dateOfBirth": "2010-09-18",
+    "sex": "Female",
+    "address": {
+      "line1": "6230 Main St",
+      "city": "Franklin",
+      "state": "NC"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1860581335"
+  },
+  {
+    "memberId": "PORTAL-000097",
+    "name": {
+      "first": "Barbara",
+      "last": "Jones"
+    },
+    "dateOfBirth": "2015-05-07",
+    "sex": "Female",
+    "address": {
+      "line1": "7898 Main St",
+      "city": "Georgetown",
+      "state": "OH"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1724979583"
+  },
+  {
+    "memberId": "PORTAL-100373",
+    "name": {
+      "first": "Priya",
+      "last": "Patel"
+    },
+    "dateOfBirth": "2020-05-29",
+    "sex": "Female",
+    "address": {
+      "line1": "3803 Main St",
+      "city": "Clinton",
+      "state": "MI"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1511250225"
+  },
+  {
+    "memberId": "PORTAL-100250",
+    "name": {
+      "first": "Robert",
+      "last": "Chen"
+    },
+    "dateOfBirth": "1980-09-15",
+    "sex": "Male",
+    "address": {
+      "line1": "817 Main St",
+      "city": "Georgetown",
+      "state": "OH"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1120551421"
+  },
+  {
+    "memberId": "PORTAL-000088",
+    "name": {
+      "first": "Robert",
+      "last": "Patel"
+    },
+    "dateOfBirth": "1969-09-24",
+    "sex": "Male",
+    "address": {
+      "line1": "4634 Main St",
+      "city": "Franklin",
+      "state": "NC"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1742610689"
+  },
+  {
+    "memberId": "PORTAL-000154",
+    "name": {
+      "first": "Emma",
+      "last": "Martinez"
+    },
+    "dateOfBirth": "1980-10-19",
+    "sex": "Female",
+    "address": {
+      "line1": "5699 Main St",
+      "city": "Clinton",
+      "state": "MI"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1552288642"
+  },
+  {
+    "memberId": "PORTAL-000123",
+    "name": {
+      "first": "Kevin",
+      "last": "Khan"
+    },
+    "dateOfBirth": "1999-03-07",
+    "sex": "Male",
+    "address": {
+      "line1": "4227 Main St",
+      "city": "Springfield",
+      "state": "IL"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1633535644"
+  },
+  {
+    "memberId": "PORTAL-100343",
+    "name": {
+      "first": "David",
+      "last": "Kim"
+    },
+    "dateOfBirth": "1957-09-02",
+    "sex": "Male",
+    "address": {
+      "line1": "6699 Main St",
+      "city": "Springfield",
+      "state": "IL"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1750028642"
+  },
+  {
+    "memberId": "PORTAL-000013",
+    "name": {
+      "first": "Kevin",
+      "last": "Silva"
+    },
+    "dateOfBirth": "2005-09-10",
+    "sex": "Male",
+    "address": {
+      "line1": "396 Main St",
+      "city": "Riverside",
+      "state": "CA"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1948113114"
+  },
+  {
+    "memberId": "PORTAL-000164",
+    "name": {
+      "first": "Robert",
+      "last": "Anderson"
+    },
+    "dateOfBirth": "1954-10-17",
+    "sex": "Male",
+    "address": {
+      "line1": "3493 Main St",
+      "city": "Springfield",
+      "state": "IL"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1191885113"
+  },
+  {
+    "memberId": "PORTAL-000036",
+    "name": {
+      "first": "Anita",
+      "last": "Rodriguez"
+    },
+    "dateOfBirth": "1993-05-11",
+    "sex": "Female",
+    "address": {
+      "line1": "1747 Main St",
+      "city": "Fairview",
+      "state": "TX"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1010737504"
+  },
+  {
+    "memberId": "PORTAL-000049",
+    "name": {
+      "first": "Michael",
+      "last": "Martinez"
+    },
+    "dateOfBirth": "1944-05-13",
+    "sex": "Male",
+    "address": {
+      "line1": "3422 Main St",
+      "city": "Clinton",
+      "state": "MI"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1536593687"
+  },
+  {
+    "memberId": "PORTAL-000098",
+    "name": {
+      "first": "Kevin",
+      "last": "Anderson"
+    },
+    "dateOfBirth": "1999-06-16",
+    "sex": "Male",
+    "address": {
+      "line1": "5359 Main St",
+      "city": "Fairview",
+      "state": "TX"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1118584314"
+  },
+  {
+    "memberId": "PORTAL-000008",
+    "name": {
+      "first": "David",
+      "last": "Chen"
+    },
+    "dateOfBirth": "1999-12-15",
+    "sex": "Male",
+    "address": {
+      "line1": "6676 Main St",
+      "city": "Riverside",
+      "state": "CA"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": null
+  },
+  {
+    "memberId": "PORTAL-000093",
+    "name": {
+      "first": "Patricia",
+      "last": "Patel"
+    },
+    "dateOfBirth": "1953-10-11",
+    "sex": "Male",
+    "address": {
+      "line1": "8256 Main St",
+      "city": "Fairview",
+      "state": "TX"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1882936912"
+  },
+  {
+    "memberId": "PORTAL-100262",
+    "name": {
+      "first": "Sara",
+      "last": "Clark"
+    },
+    "dateOfBirth": "1990-06-28",
+    "sex": "Female",
+    "address": {
+      "line1": "2009 Main St",
+      "city": "Franklin",
+      "state": "NC"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1062316148"
+  },
+  {
+    "memberId": "PORTAL-100252",
+    "name": {
+      "first": "Anita",
+      "last": "Patel"
+    },
+    "dateOfBirth": "1983-01-14",
+    "sex": "Female",
+    "address": {
+      "line1": "1459 Main St",
+      "city": "Fairview",
+      "state": "TX"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": null
+  },
+  {
+    "memberId": "PORTAL-000059",
+    "name": {
+      "first": "Emma",
+      "last": "Rodriguez"
+    },
+    "dateOfBirth": "2013-04-23",
+    "sex": "Female",
+    "address": {
+      "line1": "6871 Main St",
+      "city": "Clinton",
+      "state": "MI"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": null
+  },
+  {
+    "memberId": "PORTAL-000116",
+    "name": {
+      "first": "John",
+      "last": "Miller"
+    },
+    "dateOfBirth": "2025-09-03",
+    "sex": "Female",
+    "address": {
+      "line1": "1186 Main St",
+      "city": "Franklin",
+      "state": "NC"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1449851391"
+  },
+  {
+    "memberId": "PORTAL-100331",
+    "name": {
+      "first": "James",
+      "last": "Kim"
+    },
+    "dateOfBirth": "1937-07-16",
+    "sex": "Male",
+    "address": {
+      "line1": "4479 Main St",
+      "city": "Franklin",
+      "state": "NC"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1629655563"
+  },
+  {
+    "memberId": "PORTAL-100479",
+    "name": {
+      "first": "Elizabeth",
+      "last": "Anderson"
+    },
+    "dateOfBirth": "2018-12-04",
+    "sex": "Female",
+    "address": {
+      "line1": "5504 Main St",
+      "city": "Springfield",
+      "state": "IL"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": null
+  },
+  {
+    "memberId": "PORTAL-000139",
+    "name": {
+      "first": "Priya",
+      "last": "Jones"
+    },
+    "dateOfBirth": "2018-08-23",
+    "sex": "Male",
+    "address": {
+      "line1": "9284 Main St",
+      "city": "Georgetown",
+      "state": "OH"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1458323605"
+  },
+  {
+    "memberId": "PORTAL-100457",
+    "name": {
+      "first": "Emma",
+      "last": "Patel"
+    },
+    "dateOfBirth": "1985-03-25",
+    "sex": "Male",
+    "address": {
+      "line1": "5179 Main St",
+      "city": "Springfield",
+      "state": "IL"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1728451714"
+  },
+  {
+    "memberId": "PORTAL-100276",
+    "name": {
+      "first": "Elizabeth",
+      "last": "Smith"
+    },
+    "dateOfBirth": "2019-10-27",
+    "sex": "Female",
+    "address": {
+      "line1": "9042 Main St",
+      "city": "Riverside",
+      "state": "CA"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1175028521"
+  },
+  {
+    "memberId": "PORTAL-000017",
+    "name": {
+      "first": "Linda",
+      "last": "Johnson"
+    },
+    "dateOfBirth": "2015-09-09",
+    "sex": "Female",
+    "address": {
+      "line1": "5489 Main St",
+      "city": "Georgetown",
+      "state": "OH"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1043520561"
+  },
+  {
+    "memberId": "PORTAL-000080",
+    "name": {
+      "first": "Fatima",
+      "last": "Patel"
+    },
+    "dateOfBirth": "1984-03-31",
+    "sex": "Female",
+    "address": {
+      "line1": "4168 Main St",
+      "city": "Georgetown",
+      "state": "OH"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1502599058"
+  },
+  {
+    "memberId": "PORTAL-100214",
+    "name": {
+      "first": "Wei",
+      "last": "Silva"
+    },
+    "dateOfBirth": "1995-08-18",
+    "sex": "Female",
+    "address": {
+      "line1": "800 Main St",
+      "city": "Fairview",
+      "state": "TX"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1546828568"
+  },
+  {
+    "memberId": "PORTAL-000060",
+    "name": {
+      "first": "Noah",
+      "last": "Jones"
+    },
+    "dateOfBirth": "1966-02-27",
+    "sex": "Male",
+    "address": {
+      "line1": "1499 Main St",
+      "city": "Riverside",
+      "state": "CA"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1246019528"
+  },
+  {
+    "memberId": "PORTAL-100420",
+    "name": {
+      "first": "Mary",
+      "last": "Patel"
+    },
+    "dateOfBirth": "2006-05-17",
+    "sex": "Male",
+    "address": {
+      "line1": "3506 Main St",
+      "city": "Franklin",
+      "state": "NC"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1192318779"
+  },
+  {
+    "memberId": "PORTAL-100306",
+    "name": {
+      "first": "Wei",
+      "last": "Anderson"
+    },
+    "dateOfBirth": "2023-02-09",
+    "sex": "Female",
+    "address": {
+      "line1": "8903 Main St",
+      "city": "Clinton",
+      "state": "MI"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": null
+  },
+  {
+    "memberId": "PORTAL-100230",
+    "name": {
+      "first": "Kevin",
+      "last": "Johnson"
+    },
+    "dateOfBirth": "1959-05-08",
+    "sex": "Male",
+    "address": {
+      "line1": "8934 Main St",
+      "city": "Georgetown",
+      "state": "OH"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1599564052"
+  },
+  {
+    "memberId": "PORTAL-100180",
+    "name": {
+      "first": "Carlos",
+      "last": "Jones"
+    },
+    "dateOfBirth": "1988-04-08",
+    "sex": "Male",
+    "address": {
+      "line1": "446 Main St",
+      "city": "Riverside",
+      "state": "CA"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1430837659"
+  },
+  {
+    "memberId": "PORTAL-100297",
+    "name": {
+      "first": "Linda",
+      "last": "Johnson"
+    },
+    "dateOfBirth": "1959-04-03",
+    "sex": "Male",
+    "address": {
+      "line1": "682 Main St",
+      "city": "Franklin",
+      "state": "NC"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1286213671"
+  },
+  {
+    "memberId": "PORTAL-000084",
+    "name": {
+      "first": "James",
+      "last": "Kim"
+    },
+    "dateOfBirth": "1938-01-31",
+    "sex": "Male",
+    "address": {
+      "line1": "5890 Main St",
+      "city": "Fairview",
+      "state": "TX"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1051821563"
+  },
+  {
+    "memberId": "PORTAL-000101",
+    "name": {
+      "first": "Emma",
+      "last": "Johnson"
+    },
+    "dateOfBirth": "1994-09-06",
+    "sex": "Male",
+    "address": {
+      "line1": "7350 Main St",
+      "city": "Riverside",
+      "state": "CA"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1780368273"
+  },
+  {
+    "memberId": "PORTAL-000072",
+    "name": {
+      "first": "David",
+      "last": "Williams"
+    },
+    "dateOfBirth": "2002-08-25",
+    "sex": "Female",
+    "address": {
+      "line1": "5273 Main St",
+      "city": "Fairview",
+      "state": "TX"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1489010397"
+  },
+  {
+    "memberId": "PORTAL-100260",
+    "name": {
+      "first": "Carlos",
+      "last": "Jones"
+    },
+    "dateOfBirth": "1978-07-30",
+    "sex": "Female",
+    "address": {
+      "line1": "614 Main St",
+      "city": "Springfield",
+      "state": "IL"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1224353168"
+  },
+  {
+    "memberId": "PORTAL-000085",
+    "name": {
+      "first": "Fatima",
+      "last": "Smith"
+    },
+    "dateOfBirth": "1998-06-09",
+    "sex": "Female",
+    "address": {
+      "line1": "8624 Main St",
+      "city": "Springfield",
+      "state": "IL"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1041452109"
+  },
+  {
+    "memberId": "PORTAL-100431",
+    "name": {
+      "first": "Noah",
+      "last": "Chen"
+    },
+    "dateOfBirth": "1999-03-16",
+    "sex": "Female",
+    "address": {
+      "line1": "5160 Main St",
+      "city": "Springfield",
+      "state": "IL"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": null
+  },
+  {
+    "memberId": "PORTAL-100244",
+    "name": {
+      "first": "Liam",
+      "last": "Miller"
+    },
+    "dateOfBirth": "1978-12-15",
+    "sex": "Male",
+    "address": {
+      "line1": "3866 Main St",
+      "city": "Georgetown",
+      "state": "OH"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1081367667"
+  },
+  {
+    "memberId": "PORTAL-000023",
+    "name": {
+      "first": "Patricia",
+      "last": "Chen"
+    },
+    "dateOfBirth": "2026-02-27",
+    "sex": "Female",
+    "address": {
+      "line1": "4608 Main St",
+      "city": "Riverside",
+      "state": "CA"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1042346853"
+  },
+  {
+    "memberId": "PORTAL-000052",
+    "name": {
+      "first": "Sara",
+      "last": "Chen"
+    },
+    "dateOfBirth": "1972-04-14",
+    "sex": "Male",
+    "address": {
+      "line1": "8597 Main St",
+      "city": "Riverside",
+      "state": "CA"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1089319426"
+  },
+  {
+    "memberId": "PORTAL-100248",
+    "name": {
+      "first": "Priya",
+      "last": "Patel"
+    },
+    "dateOfBirth": "1996-01-23",
+    "sex": "Male",
+    "address": {
+      "line1": "2709 Main St",
+      "city": "Springfield",
+      "state": "IL"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": null
+  },
+  {
+    "memberId": "PORTAL-000079",
+    "name": {
+      "first": "Priya",
+      "last": "Johnson"
+    },
+    "dateOfBirth": "1974-05-06",
+    "sex": "Female",
+    "address": {
+      "line1": "2345 Main St",
+      "city": "Fairview",
+      "state": "TX"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1394301860"
+  },
+  {
+    "memberId": "PORTAL-000026",
+    "name": {
+      "first": "David",
+      "last": "Kim"
+    },
+    "dateOfBirth": "1992-02-29",
+    "sex": "Male",
+    "address": {
+      "line1": "457 Main St",
+      "city": "Georgetown",
+      "state": "OH"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1797016877"
+  },
+  {
+    "memberId": "PORTAL-100430",
+    "name": {
+      "first": "Noah",
+      "last": "Clark"
+    },
+    "dateOfBirth": "1939-06-06",
+    "sex": "Female",
+    "address": {
+      "line1": "2026 Main St",
+      "city": "Fairview",
+      "state": "TX"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": null
+  },
+  {
+    "memberId": "PORTAL-000153",
+    "name": {
+      "first": "Anita",
+      "last": "Kim"
+    },
+    "dateOfBirth": "1986-02-06",
+    "sex": "Female",
+    "address": {
+      "line1": "4611 Main St",
+      "city": "Springfield",
+      "state": "IL"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1684147008"
+  },
+  {
+    "memberId": "PORTAL-100471",
+    "name": {
+      "first": "James",
+      "last": "Martinez"
+    },
+    "dateOfBirth": "2014-02-08",
+    "sex": "Male",
+    "address": {
+      "line1": "7315 Main St",
+      "city": "Georgetown",
+      "state": "OH"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1938335299"
+  },
+  {
+    "memberId": "PORTAL-100446",
+    "name": {
+      "first": "Anita",
+      "last": "Khan"
+    },
+    "dateOfBirth": "1981-06-25",
+    "sex": "Male",
+    "address": {
+      "line1": "7068 Main St",
+      "city": "Springfield",
+      "state": "IL"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1249690482"
+  },
+  {
+    "memberId": "PORTAL-100458",
+    "name": {
+      "first": "Michael",
+      "last": "Smith"
+    },
+    "dateOfBirth": "1958-05-01",
+    "sex": "Male",
+    "address": {
+      "line1": "8017 Main St",
+      "city": "Springfield",
+      "state": "IL"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1913606986"
+  },
+  {
+    "memberId": "PORTAL-100205",
+    "name": {
+      "first": "Sara",
+      "last": "Clark"
+    },
+    "dateOfBirth": "2017-03-23",
+    "sex": "Female",
+    "address": {
+      "line1": "1458 Main St",
+      "city": "Clinton",
+      "state": "MI"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1918583223"
+  },
+  {
+    "memberId": "PORTAL-100433",
+    "name": {
+      "first": "Robert",
+      "last": "Khan"
+    },
+    "dateOfBirth": "2022-10-10",
+    "sex": "Male",
+    "address": {
+      "line1": "3289 Main St",
+      "city": "Riverside",
+      "state": "CA"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1318380432"
+  },
+  {
+    "memberId": "PORTAL-100360",
+    "name": {
+      "first": "Robert",
+      "last": "Chen"
+    },
+    "dateOfBirth": "2021-03-24",
+    "sex": "Female",
+    "address": {
+      "line1": "7236 Main St",
+      "city": "Franklin",
+      "state": "NC"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1884564515"
+  },
+  {
+    "memberId": "PORTAL-000096",
+    "name": {
+      "first": "Robert",
+      "last": "Garcia"
+    },
+    "dateOfBirth": "2005-02-15",
+    "sex": "Female",
+    "address": {
+      "line1": "4113 Main St",
+      "city": "Franklin",
+      "state": "NC"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1453604052"
+  },
+  {
+    "memberId": "PORTAL-100186",
+    "name": {
+      "first": "Fatima",
+      "last": "Rodriguez"
+    },
+    "dateOfBirth": "1989-03-16",
+    "sex": "Female",
+    "address": {
+      "line1": "2066 Main St",
+      "city": "Georgetown",
+      "state": "OH"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1981495511"
+  },
+  {
+    "memberId": "PORTAL-100233",
+    "name": {
+      "first": "Sara",
+      "last": "Anderson"
+    },
+    "dateOfBirth": "2008-03-28",
+    "sex": "Male",
+    "address": {
+      "line1": "8026 Main St",
+      "city": "Riverside",
+      "state": "CA"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1650379072"
+  },
+  {
+    "memberId": "PORTAL-000003",
+    "name": {
+      "first": "Michael",
+      "last": "Silva"
+    },
+    "dateOfBirth": "1936-09-28",
+    "sex": "Male",
+    "address": {
+      "line1": "8188 Main St",
+      "city": "Springfield",
+      "state": "IL"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1423667127"
+  },
+  {
+    "memberId": "PORTAL-100435",
+    "name": {
+      "first": "Noah",
+      "last": "Martinez"
+    },
+    "dateOfBirth": "1952-08-29",
+    "sex": "Female",
+    "address": {
+      "line1": "1280 Main St",
+      "city": "Georgetown",
+      "state": "OH"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1257983511"
+  },
+  {
+    "memberId": "PORTAL-100478",
+    "name": {
+      "first": "Noah",
+      "last": "Silva"
+    },
+    "dateOfBirth": "2016-11-07",
+    "sex": "Female",
+    "address": {
+      "line1": "4279 Main St",
+      "city": "Riverside",
+      "state": "CA"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1461537186"
+  },
+  {
+    "memberId": "PORTAL-100428",
+    "name": {
+      "first": "Kevin",
+      "last": "Silva"
+    },
+    "dateOfBirth": "1950-11-13",
+    "sex": "Male",
+    "address": {
+      "line1": "2453 Main St",
+      "city": "Riverside",
+      "state": "CA"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1824965415"
+  },
+  {
+    "memberId": "PORTAL-100278",
+    "name": {
+      "first": "Liam",
+      "last": "Brown"
+    },
+    "dateOfBirth": "1951-08-26",
+    "sex": "Female",
+    "address": {
+      "line1": "6351 Main St",
+      "city": "Clinton",
+      "state": "MI"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1771910543"
+  },
+  {
+    "memberId": "PORTAL-100314",
+    "name": {
+      "first": "Barbara",
+      "last": "Miller"
+    },
+    "dateOfBirth": "2020-04-20",
+    "sex": "Male",
+    "address": {
+      "line1": "9039 Main St",
+      "city": "Riverside",
+      "state": "CA"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1038976022"
+  },
+  {
+    "memberId": "PORTAL-100232",
+    "name": {
+      "first": "Kevin",
+      "last": "Williams"
+    },
+    "dateOfBirth": "1989-05-08",
+    "sex": "Female",
+    "address": {
+      "line1": "571 Main St",
+      "city": "Georgetown",
+      "state": "OH"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1522372495"
+  },
+  {
+    "memberId": "PORTAL-000130",
+    "name": {
+      "first": "Anita",
+      "last": "Davis"
+    },
+    "dateOfBirth": "1940-06-06",
+    "sex": "Male",
+    "address": {
+      "line1": "808 Main St",
+      "city": "Clinton",
+      "state": "MI"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1616246155"
+  },
+  {
+    "memberId": "PORTAL-000012",
+    "name": {
+      "first": "Wei",
+      "last": "Anderson"
+    },
+    "dateOfBirth": "1957-12-28",
+    "sex": "Male",
+    "address": {
+      "line1": "3584 Main St",
+      "city": "Springfield",
+      "state": "IL"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1125242731"
+  },
+  {
+    "memberId": "PORTAL-100201",
+    "name": {
+      "first": "David",
+      "last": "Rodriguez"
+    },
+    "dateOfBirth": "2020-12-14",
+    "sex": "Female",
+    "address": {
+      "line1": "7522 Main St",
+      "city": "Clinton",
+      "state": "MI"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1958268770"
+  },
+  {
+    "memberId": "PORTAL-100400",
+    "name": {
+      "first": "Wei",
+      "last": "Williams"
+    },
+    "dateOfBirth": "1991-05-01",
+    "sex": "Male",
+    "address": {
+      "line1": "224 Main St",
+      "city": "Clinton",
+      "state": "MI"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1510003551"
+  },
+  {
+    "memberId": "PORTAL-000103",
+    "name": {
+      "first": "Emma",
+      "last": "Davis"
+    },
+    "dateOfBirth": "1983-10-05",
+    "sex": "Male",
+    "address": {
+      "line1": "3480 Main St",
+      "city": "Riverside",
+      "state": "CA"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1057300443"
+  },
+  {
+    "memberId": "PORTAL-100418",
+    "name": {
+      "first": "Noah",
+      "last": "Jones"
+    },
+    "dateOfBirth": "1945-05-18",
+    "sex": "Male",
+    "address": {
+      "line1": "6940 Main St",
+      "city": "Fairview",
+      "state": "TX"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1237466325"
+  },
+  {
+    "memberId": "PORTAL-100264",
+    "name": {
+      "first": "Mary",
+      "last": "Jones"
+    },
+    "dateOfBirth": "1946-04-12",
+    "sex": "Male",
+    "address": {
+      "line1": "1647 Main St",
+      "city": "Franklin",
+      "state": "NC"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1149467987"
+  },
+  {
+    "memberId": "PORTAL-100261",
+    "name": {
+      "first": "Patricia",
+      "last": "Patel"
+    },
+    "dateOfBirth": "1990-03-26",
+    "sex": "Male",
+    "address": {
+      "line1": "8347 Main St",
+      "city": "Riverside",
+      "state": "CA"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1412904561"
+  },
+  {
+    "memberId": "PORTAL-100313",
+    "name": {
+      "first": "Noah",
+      "last": "Davis"
+    },
+    "dateOfBirth": "2009-07-11",
+    "sex": "Female",
+    "address": {
+      "line1": "4603 Main St",
+      "city": "Clinton",
+      "state": "MI"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": null
+  },
+  {
+    "memberId": "PORTAL-000000",
+    "name": {
+      "first": "Sara",
+      "last": "Jones"
+    },
+    "dateOfBirth": "1975-09-26",
+    "sex": "Male",
+    "address": {
+      "line1": "7055 Main St",
+      "city": "Franklin",
+      "state": "NC"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1139099603"
+  },
+  {
+    "memberId": "PORTAL-100452",
+    "name": {
+      "first": "Barbara",
+      "last": "Silva"
+    },
+    "dateOfBirth": "1948-03-05",
+    "sex": "Male",
+    "address": {
+      "line1": "907 Main St",
+      "city": "Clinton",
+      "state": "MI"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1586385266"
+  },
+  {
+    "memberId": "PORTAL-100334",
+    "name": {
+      "first": "Robert",
+      "last": "Martinez"
+    },
+    "dateOfBirth": "2022-07-24",
+    "sex": "Female",
+    "address": {
+      "line1": "9487 Main St",
+      "city": "Springfield",
+      "state": "IL"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1874906491"
+  },
+  {
+    "memberId": "PORTAL-100369",
+    "name": {
+      "first": "Robert",
+      "last": "Kim"
+    },
+    "dateOfBirth": "1941-08-06",
+    "sex": "Male",
+    "address": {
+      "line1": "3485 Main St",
+      "city": "Franklin",
+      "state": "NC"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": null
+  },
+  {
+    "memberId": "PORTAL-100423",
+    "name": {
+      "first": "James",
+      "last": "Miller"
+    },
+    "dateOfBirth": "1957-11-25",
+    "sex": "Male",
+    "address": {
+      "line1": "6747 Main St",
+      "city": "Fairview",
+      "state": "TX"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1943577278"
+  },
+  {
+    "memberId": "PORTAL-100368",
+    "name": {
+      "first": "Elizabeth",
+      "last": "Anderson"
+    },
+    "dateOfBirth": "1974-07-28",
+    "sex": "Female",
+    "address": {
+      "line1": "2155 Main St",
+      "city": "Georgetown",
+      "state": "OH"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1174370113"
+  },
+  {
+    "memberId": "PORTAL-100294",
+    "name": {
+      "first": "Barbara",
+      "last": "Miller"
+    },
+    "dateOfBirth": "2022-09-02",
+    "sex": "Female",
+    "address": {
+      "line1": "7794 Main St",
+      "city": "Georgetown",
+      "state": "OH"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1090798611"
+  },
+  {
+    "memberId": "PORTAL-000137",
+    "name": {
+      "first": "Barbara",
+      "last": "Khan"
+    },
+    "dateOfBirth": "1989-05-11",
+    "sex": "Male",
+    "address": {
+      "line1": "3440 Main St",
+      "city": "Riverside",
+      "state": "CA"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1610219720"
+  },
+  {
+    "memberId": "PORTAL-000129",
+    "name": {
+      "first": "Liam",
+      "last": "Chen"
+    },
+    "dateOfBirth": "2016-09-27",
+    "sex": "Male",
+    "address": {
+      "line1": "8653 Main St",
+      "city": "Georgetown",
+      "state": "OH"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1321858382"
+  },
+  {
+    "memberId": "PORTAL-100463",
+    "name": {
+      "first": "Fatima",
+      "last": "Miller"
+    },
+    "dateOfBirth": "2008-08-17",
+    "sex": "Female",
+    "address": {
+      "line1": "8928 Main St",
+      "city": "Franklin",
+      "state": "NC"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1838406951"
+  },
+  {
+    "memberId": "PORTAL-100336",
+    "name": {
+      "first": "Barbara",
+      "last": "Silva"
+    },
+    "dateOfBirth": "1986-07-10",
+    "sex": "Male",
+    "address": {
+      "line1": "5464 Main St",
+      "city": "Fairview",
+      "state": "TX"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1992213459"
+  },
+  {
+    "memberId": "PORTAL-100307",
+    "name": {
+      "first": "Barbara",
+      "last": "Nguyen"
+    },
+    "dateOfBirth": "1967-11-10",
+    "sex": "Male",
+    "address": {
+      "line1": "9364 Main St",
+      "city": "Clinton",
+      "state": "MI"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": null
+  },
+  {
+    "memberId": "PORTAL-100349",
+    "name": {
+      "first": "Barbara",
+      "last": "Silva"
+    },
+    "dateOfBirth": "1951-08-26",
+    "sex": "Male",
+    "address": {
+      "line1": "9045 Main St",
+      "city": "Riverside",
+      "state": "CA"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1285310646"
+  },
+  {
+    "memberId": "PORTAL-000020",
+    "name": {
+      "first": "Robert",
+      "last": "Anderson"
+    },
+    "dateOfBirth": "2017-12-15",
+    "sex": "Female",
+    "address": {
+      "line1": "3348 Main St",
+      "city": "Clinton",
+      "state": "MI"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1544992070"
+  },
+  {
+    "memberId": "PORTAL-100447",
+    "name": {
+      "first": "Kevin",
+      "last": "Chen"
+    },
+    "dateOfBirth": "1986-08-05",
+    "sex": "Male",
+    "address": {
+      "line1": "3770 Main St",
+      "city": "Fairview",
+      "state": "TX"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1521385435"
+  },
+  {
+    "memberId": "PORTAL-100341",
+    "name": {
+      "first": "Linda",
+      "last": "Silva"
+    },
+    "dateOfBirth": "2021-09-02",
+    "sex": "Female",
+    "address": {
+      "line1": "9748 Main St",
+      "city": "Springfield",
+      "state": "IL"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1020895974"
+  },
+  {
+    "memberId": "PORTAL-100459",
+    "name": {
+      "first": "Anita",
+      "last": "Silva"
+    },
+    "dateOfBirth": "1990-12-28",
+    "sex": "Male",
+    "address": {
+      "line1": "1348 Main St",
+      "city": "Franklin",
+      "state": "NC"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1833782145"
+  },
+  {
+    "memberId": "PORTAL-000121",
+    "name": {
+      "first": "John",
+      "last": "Rodriguez"
+    },
+    "dateOfBirth": "2024-10-31",
+    "sex": "Female",
+    "address": {
+      "line1": "3078 Main St",
+      "city": "Franklin",
+      "state": "NC"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": null
+  },
+  {
+    "memberId": "PORTAL-000157",
+    "name": {
+      "first": "Emma",
+      "last": "Clark"
+    },
+    "dateOfBirth": "1950-08-15",
+    "sex": "Male",
+    "address": {
+      "line1": "8899 Main St",
+      "city": "Franklin",
+      "state": "NC"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1208465141"
+  },
+  {
+    "memberId": "PORTAL-100196",
+    "name": {
+      "first": "Carlos",
+      "last": "Silva"
+    },
+    "dateOfBirth": "2009-09-16",
+    "sex": "Female",
+    "address": {
+      "line1": "4146 Main St",
+      "city": "Fairview",
+      "state": "TX"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1540344362"
+  },
+  {
+    "memberId": "PORTAL-000173",
+    "name": {
+      "first": "Priya",
+      "last": "Khan"
+    },
+    "dateOfBirth": "2019-06-15",
+    "sex": "Male",
+    "address": {
+      "line1": "6263 Main St",
+      "city": "Franklin",
+      "state": "NC"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1680382853"
+  },
+  {
+    "memberId": "PORTAL-100305",
+    "name": {
+      "first": "Noah",
+      "last": "Jones"
+    },
+    "dateOfBirth": "1953-11-30",
+    "sex": "Male",
+    "address": {
+      "line1": "7428 Main St",
+      "city": "Clinton",
+      "state": "MI"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1536658653"
+  },
+  {
+    "memberId": "PORTAL-000081",
+    "name": {
+      "first": "Wei",
+      "last": "Anderson"
+    },
+    "dateOfBirth": "2017-06-14",
+    "sex": "Female",
+    "address": {
+      "line1": "438 Main St",
+      "city": "Fairview",
+      "state": "TX"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": null
+  },
+  {
+    "memberId": "PORTAL-100282",
+    "name": {
+      "first": "David",
+      "last": "Chen"
+    },
+    "dateOfBirth": "2019-03-06",
+    "sex": "Male",
+    "address": {
+      "line1": "9910 Main St",
+      "city": "Springfield",
+      "state": "IL"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1675993426"
+  },
+  {
+    "memberId": "PORTAL-100310",
+    "name": {
+      "first": "Elizabeth",
+      "last": "Davis"
+    },
+    "dateOfBirth": "1941-05-03",
+    "sex": "Male",
+    "address": {
+      "line1": "9167 Main St",
+      "city": "Springfield",
+      "state": "IL"
+    },
+    "planType": "Medicare Advantage",
+    "primaryCareProviderNpi": "1873339618"
+  },
+  {
+    "memberId": "PORTAL-000148",
+    "name": {
+      "first": "David",
+      "last": "Williams"
+    },
+    "dateOfBirth": "1981-02-03",
+    "sex": "Female",
+    "address": {
+      "line1": "7342 Main St",
+      "city": "Fairview",
+      "state": "TX"
+    },
+    "planType": "PPO",
+    "primaryCareProviderNpi": "1313062645"
+  },
+  {
+    "memberId": "PORTAL-100286",
+    "name": {
+      "first": "Robert",
+      "last": "Smith"
+    },
+    "dateOfBirth": "1972-07-02",
+    "sex": "Male",
+    "address": {
+      "line1": "4710 Main St",
+      "city": "Springfield",
+      "state": "IL"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1751191948"
+  },
+  {
+    "memberId": "PORTAL-100335",
+    "name": {
+      "first": "Noah",
+      "last": "Rodriguez"
+    },
+    "dateOfBirth": "2009-01-30",
+    "sex": "Female",
+    "address": {
+      "line1": "6072 Main St",
+      "city": "Fairview",
+      "state": "TX"
+    },
+    "planType": "HMO",
+    "primaryCareProviderNpi": "1714606465"
+  }
+]
